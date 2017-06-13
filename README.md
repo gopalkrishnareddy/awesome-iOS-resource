@@ -68,6 +68,16 @@
 * 携程移动APP架构优化之旅——携程 陈浩然 [PPT](Conferences/携程移动APP架构优化之旅.pdf) [视频](http://www.infoq.com/cn/presentations/ctrip-mobile-app-architecture-optimization)
 * 移动CDN及直播性能优化——七牛 白顺龙 [PPT](Conferences/移动CDN及直播性能优化.pdf)
 
+#### 2016 深圳
+
+* 滴滴出行业务系统的架构升级——滴滴 杜欢 [PPT](Conferences/滴滴出行业务系统的架构升级.pdf) [视频](http://www.infoq.com/cn/presentations/didi-business-system-architecture-upgrade)
+
+### SDCC
+
+#### 2017 上海
+
+* 新瓶旧酒——换个角度提升APP性能质量的实践之路——饿了么 高亮亮 [PPT](Conferences/新瓶旧酒——换个角度提升APP性能质量的实践之路.pdf) [视频](http://itdks.com/dakashuo/detail/1278#)
+
 ## Books
 
 * [Effective Objective-C 2.0  编写高质量iOS与OS X代码的52个有效方法](Books/Effective%20Objective-C%202.0%20%20编写高质量iOS与OS%20X代码的52个有效方法.pdf)
