@@ -152,6 +152,39 @@
 * [浅谈App优化](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-06.mp4) By 胡彪 饿了么移动技术部高级研发经理
 * [映客直播 iOS App 性能优化实践](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-07.mp4) By 刘凯 映客直播iOS高级开发工程师
 
+### 国外 iOS 技术大会
+---
+
+* [iOSCon](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)
+* [SwiftConf](https://swiftconf.com/)
+* [Pragma Conference](http://pragmaconference.com/)
+* [AltConf](http://altconf.com/)
+* [TrySwift](https://www.tryswift.co/)
+* [iOSDevUK](http://www.iosdevuk.com/)
+* [360iDev](http://360idev.com/)
+* [Swift Alps](http://theswiftalps.com/)
+* [App Design & Development Conference](https://addconf.com/)
+* [Mobile Era](https://mobileera.rocks/)
+* [Mobiconf](https://2017.mobiconf.org/)
+* [Objective-Cologne](http://lanyrd.com/2015/objcgn/)
+* [CocoaConf](http://cocoaconf.com/)
+* [Renaissance IO](https://www.youtube.com/c/RenaissanceIoWeMakeApps)
+* [iOSDevCampDC](http://iosdevcampdc.com/)
+* [A Swift Start](http://aswiftstart.com/)
+* [NSConference](http://nsconference.com/)
+* [/dev/world](http://2015.devworld.com.au/)
+* [NSScotland](https://nsscotland.com/)
+* [iOS Remote Conf](https://allremoteconfs.com/ios-2016)
+* [The NSNorth Conference](http://nsnorth.ca/)
+* [Swift With The Best](http://swift.withthebest.com/)
+* [Forward Swift](https://forwardswift.com/)
+* [WWJC](https://www.youtube.com/user/JailbreakCon)
+* [dot Swift](https://www.dotswift.io/)
+* [Swift Summit](http://www.swiftsummit.com/)
+* [iOS Conference SG](http://iosconf.sg/)
+* [RWDevCon](https://www.rwdevcon.com/)
+
+
 ## Books
 
 * [Effective Objective-C 2.0  编写高质量iOS与OS X代码的52个有效方法](Books/Effective%20Objective-C%202.0%20%20编写高质量iOS与OS%20X代码的52个有效方法.pdf)
