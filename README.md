@@ -19,4 +19,16 @@
 * [移动项目快速持续交付的工程化实践——林永坚](Conferences/携程无线持续交付平台.pdf)
 * [手机天猫面向业务的界面解决方案-Tangram——高嘉峻(伯灵)](Conferences/手机天猫面向业务的界面解决方案-Tangram.pdf)
 
+### GMTC
+
+### MDCC
+
+#### 2016
+
+
+## Books
+
+* [Effective Objective-C 2.0  编写高质量iOS与OS X代码的52个有效方法](Books/Effective Objective-C 2.0  编写高质量iOS与OS X代码的52个有效方法.pdf)
+* [Objective-C高级编程 iOS与OS X多线程和内存管理](Books/Objective-C高级编程 iOS与OS X多线程和内存管理.pdf)
+
 
