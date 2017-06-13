@@ -167,7 +167,7 @@
 * [iOS 7 Programming Pushing the Limits](Books/iOS%207%20Programming%20Pushing%20the%20Limits.pdf)
 * [OSX与iOS内核编程](Books/OSX与iOS内核编程.pdf)
 * [iOS Hacking Guide](Books/iOS%20Hacking%20Guide.pdf)
-
+* CFHipsterRef [epub](Books/CFHipsterRef.epub) [PDF](Books/CFHipsterRef.pdf)
 
 ## Articles
 * [携程App的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
