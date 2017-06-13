@@ -19,11 +19,20 @@
 * [移动项目快速持续交付的工程化实践——林永坚](Conferences/携程无线持续交付平台.pdf)
 * [手机天猫面向业务的界面解决方案-Tangram——高嘉峻(伯灵)](Conferences/手机天猫面向业务的界面解决方案-Tangram.pdf)
 
-### GMTC
-
 ### MDCC
 
 #### 2016
+
+* [把玩编译 ，Clang 有意思^ ^——孙源](Conferences/Clang.pdf)
+
+### QCon
+
+#### 2017	
+
+* 移动APP性能监测实践（iOS篇）——听云 杨凯 [PPT](Conferences/移动APP性能监测实践（iOS篇）.pdf) [视频](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice)
+* 网易乐得 “无埋点”数据采集实践之路——网易 庞辉 [PPT](Conferences/网易乐得%20“无埋点”数据采集实践之路.pdf)
+* 微信移动客户端数据存储优化实践——微信 凌国 [PPT](Conferences/微信移动客户端数据存储优化实践.pdf)
+* iOS App 内存专项实践：封闭系统下的大自由——腾讯 黄闻欣 [PPT](Conferences/iOS%20App%20内存专项实践：封闭系统下的大自由.pdf)
 
 
 ## Books
