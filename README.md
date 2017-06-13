@@ -76,7 +76,7 @@
 * [Swift with Hundreds of Engineers——Tuomas Artman](Conferences/Swift%20with%20Hundreds%20of%20Engineers.pdf)
 * [Thinking in RxSwift way——Krunoslav Zaher](Conferences/Thinking%20in%20RxSwift%20way.pdf)
 * [Understand Swift Performance——唐巧](Conferences/Understand%20Swift%20Performance.pdf)
-* [TensorFlow on iOS——唐巧](Conferences/TensorFlow%20on%20iOS.pdf)
+* [TensorFlow on iOS——尹航](Conferences/TensorFlow%20on%20iOS.pdf)
 
 #### 2016
 
