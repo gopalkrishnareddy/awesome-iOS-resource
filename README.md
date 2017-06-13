@@ -11,7 +11,7 @@
 
 #### 2017
 
-* [手淘iOS性能优化探索——方颖(叁省)](https://github.com/aozhimin/awesome-iOS-resource/blob/master/Conferences/%E2%BC%BF%E6%B7%98iOS%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2.pdf)
+* [手淘iOS性能优化探索——方颖(叁省)](Conferences/⼿淘iOS性能优化探索.pdf)
 * [滴滴出行iOS端瘦身实践——戴铭](Conferences/滴滴出行iOS端瘦身实践.pdf)
 * [Swift在Airbnb的应⽤实践——陈坤](Conferences/Swift在Airbnb的应⽤实践.pdf)
 * [腾讯移动分析Crash系统实时化演进与实践——李国栋](Conferences/腾讯移动分析Crash系统实时化演进与实践.pdf)
@@ -35,6 +35,23 @@
 ### atSwift 
 
 #### 2017
+
+* [学习 iOS 编译原理能做哪些有意思的事情——戴铭](Conferences/学习%20iOS%20编译原理能做哪些有意思的事情.pdf)
+* [当 Swift 遇上 Raspberry PI——txx](Conferences/当%20Swift%20遇上%20Raspberry%20PI.key)
+* [Concurrency on iOS——Sam Davies](Conferences/Concurrency%20on%20iOS.pdf)
+* [Building Confidence Testing iOS applications——Saul Mora](Conferences/Building%20Confidence%20Testing%20iOS%20applications.pdf)
+* [iOS development efficiency at Facebook](Conferences/iOS%20development%20efficiency%20at%20Facebook.pdf)
+* [打造易扩展的高性能图片组件——柯灵杰](Conferences/打造易扩展的高性能图片组件.pdf)
+* [组件 + 组建 = 美团 iOS 客户端——赵恩生](Conferences/组件%20+%20组建%20=%20美团%20iOS%20客户端.pdf)
+* [Accessibility - From Zero to Hero——Sommer Panage](Conferences/Accessibility%20-%20From%20Zero%20to%20Hero.pdf)
+* [JavaScript for Swift Developers](Conferences/JavaScript%20for%20Swift%20Developers.pdf)
+* [Lightweight reactive-api for MVVM](Conferences/Lightweight%20reactive-api%20for%20MVVM.pdf)
+* [METAL & DEEP LEARNING](Conferences/METAL%20&%20DEEP%20LEARNING.pdf)
+* [ServerSideSwift——Kyle Jessup](Conferences/ServerSideSwift.pdf)
+* [Swift with Hundreds of Engineers——Tuomas Artman](Conferences/Swift%20with%20Hundreds%20of%20Engineers.pdf)
+* [Thinking in RxSwift way——Krunoslav Zaher](Conferences/Thinking%20in%20RxSwift%20way.pdf)
+* [Understand Swift Performance——唐巧](Conferences/Understand%20Swift%20Performance.pdf)
+* [TensorFlow on iOS——唐巧](Conferences/TensorFlow%20on%20iOS.pdf)
 
 #### 2016
 
