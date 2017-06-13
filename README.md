@@ -143,6 +143,15 @@
 
 * 新瓶旧酒——换个角度提升APP性能质量的实践之路——饿了么 高亮亮 [PPT](Conferences/新瓶旧酒——换个角度提升APP性能质量的实践之路.pdf) [视频](http://itdks.com/dakashuo/detail/1278#)
 
+### APMCon
+---
+### 2016
+
+* [性能可视化实践之路](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/18-A-04.mp4) By 陈武 阿里巴巴高级无线技术专家
+* [网易 APM hook 方案探索](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-05.mp4) By 郑文 网易杭州研究院资深工程师
+* [浅谈App优化](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-06.mp4) By 胡彪 饿了么移动技术部高级研发经理
+* [映客直播 iOS App 性能优化实践](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-07.mp4) By 刘凯 映客直播iOS高级开发工程师
+
 ## Books
 
 * [Effective Objective-C 2.0  编写高质量iOS与OS X代码的52个有效方法](Books/Effective%20Objective-C%202.0%20%20编写高质量iOS与OS%20X代码的52个有效方法.pdf)
