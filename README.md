@@ -32,6 +32,22 @@
 * [IM 即时通讯技术在多应用场景下的技术实现，以及性能调优——陈宜龙](Conferences/IM%20即时通讯技术在多应用场景下的技术实现，以及性能调优.pdf)
 * [搜狗输入法性能优化实践——李腾杰](Conferences/搜狗输入法性能优化实践.pdf)
 
+### atSwift 
+
+#### 2017
+
+#### 2016
+
+* [如何打造一个让人愉快的框架——王巍](Conferences/如何打造一个让人愉快的框架.pdf)
+* [Functional Programming——包涵卿](Conferences/Functional%20Programming.pdf)
+* [A Brief Immersion——傅若愚](Conferences/A%20Brief%20Immersion.pdf)
+* [Swift改善既有代码的设计——翁阳](Conferences/Swift改善既有代码的设计.pdf)
+* [Pop in Swift——李洁信](Conferences/Pop%20in%20Swift.pdf)
+* [Faster iOS App——周楷雯](Conferences/Faster%20iOS%20App.pdf)
+* [Swift Style——Greg Heo](Conferences/Swift%20Style.pdf)
+
+[大会演讲视频地址](http://www.bilibili.com/video/av4212609/)
+
 ### QCon
 
 #### 2017	北京
