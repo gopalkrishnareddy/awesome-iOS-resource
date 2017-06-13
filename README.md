@@ -8,6 +8,13 @@ A curated list of awesome iOS conferences, books and articles.
 
 Inspired by [awesome-ios](https://github.com/vsouza/awesome-ios).
 
+## How to Use
+awesome-iOS-resource is an amazing list of resources which committed to the aspect of iOS, the best ways to use are:
+
+- Ask for help via [Twitter](https://twitter.com/aozhimin0811)
+- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
+- Go through our *Content Menu*
+
 ## Content
 * [Conferences](#conferences)
 	* [GMTC](#gmtc)
