@@ -235,6 +235,7 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [Effective Objective-C 2.0  编写高质量iOS与OS X代码的52个有效方法](Books/Effective%20Objective-C%202.0%20%20编写高质量iOS与OS%20X代码的52个有效方法.pdf)
 * [Objective-C高级编程 iOS与OS X多线程和内存管理](Books/Objective-C高级编程%20iOS与OS%20X多线程和内存管理.pdf)
 * [Mac OS X Internals - A Systems Approach](Books/Mac%20Os%20X%20Internals%20-%20A%20Systems%20Approach.pdf)
+* 深入解析 MAC OS X & iOS 操作系统
 * [Hacking and Securing iOS Applications](Books/Hacking%20and%20Securing%20iOS%20Applications.pdf)
 * [黑客攻防技术宝典：iOS实战篇](Books/黑客攻防技术宝典：iOS实战篇.pdf)
 * [iOS网络高级编程  iPhone和iPad的企业应用开发](Books/iOS网络高级编程%20%20iPhone和iPad的企业应用开发.pdf)
@@ -246,6 +247,8 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [OSX与iOS内核编程](Books/OSX与iOS内核编程.pdf)
 * [iOS Hacking Guide](Books/iOS%20Hacking%20Guide.pdf)
 * CFHipsterRef [epub](Books/CFHipsterRef.epub) [PDF](Books/CFHipsterRef.pdf)
+
+> 深入解析 MAC OS X & iOS 操作系统的 PDF 大小是 245 MB，超过 100 MB 的没办法 Push 到远端仓库，即使压缩也超过 100 MB。
 
 ## Articles
 
