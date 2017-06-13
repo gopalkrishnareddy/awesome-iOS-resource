@@ -24,6 +24,13 @@
 #### 2016
 
 * [把玩编译 ，Clang 有意思^ ^——孙源](Conferences/Clang.pdf)
+* [Swift 面向协议编程与 Cocoa 框架的邂逅——王巍](Conferences/Swift%20面向协议编程与%20Cocoa%20框架的邂逅.pdf)
+* [58同城 App 在 React Native 上的开发实践-iOS 视角——彭飞](Conferences/58同城%20App%20在%20React%20Native%20上的开发实践-iOS%20视角.pdf)
+* [展望 Isomorphic Swift——祁一鸣](Conferences/展望%20Isomorphic%20Swift.pdf)
+* [Deep in iOS Testing——阿里云测](Conferences/AutomateiOSTestig.pdf)
+* [安全那些事儿](Conferences/安全那些事儿.pdf)
+* [IM 即时通讯技术在多应用场景下的技术实现，以及性能调优——陈宜龙](Conferences/IM%20即时通讯技术在多应用场景下的技术实现，以及性能调优.pdf)
+* [搜狗输入法性能优化实践——李腾杰](Conferences/搜狗输入法性能优化实践.pdf)
 
 ### QCon
 
