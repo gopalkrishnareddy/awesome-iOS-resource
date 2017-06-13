@@ -27,13 +27,34 @@
 
 ### QCon
 
-#### 2017	
+#### 2017	北京
 
-* 移动APP性能监测实践（iOS篇）——听云 杨凯 [PPT](Conferences/移动APP性能监测实践（iOS篇）.pdf) [视频](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice)
+* 移动APP性能监测实践（iOS篇——听云 杨凯 [PPT](Conferences/移动APP性能监测实践（iOS篇）.pdf) [视频](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice)
 * 网易乐得 “无埋点”数据采集实践之路——网易 庞辉 [PPT](Conferences/网易乐得%20“无埋点”数据采集实践之路.pdf)
 * 微信移动客户端数据存储优化实践——微信 凌国 [PPT](Conferences/微信移动客户端数据存储优化实践.pdf)
 * iOS App 内存专项实践：封闭系统下的大自由——腾讯 黄闻欣 [PPT](Conferences/iOS%20App%20内存专项实践：封闭系统下的大自由.pdf)
+* 去哪儿网快速 App 开发及问题解决平台实践——去哪儿 张子天 [PPT](Conferences/去哪儿网快速%20App%20开发及问题解决平台实践.pdf)
 
+#### 2016 北京
+
+* 移动端全链路跟踪保障体系——蘑菇街 七米 [PPT](Conferences/移动端全链路跟踪保障体系.pdf) [视频](http://www.infoq.com/cn/presentations/mobile-terminal-full-link-tracking-and-security-system)
+* MVVM 与 FRP 编程实战——美团 臧成威 [PPT](Conferences/MVVM%20与%20FRP%20编程实战.pdf) [视频](http://www.infoq.com/cn/presentations/mvvm-and-frp-programming)
+
+#### 2016 上海
+
+* 移动端APM产品研发技能——听云 江赛 [PPT](Conferences/移动端APM产品研发技能.pdf)
+* 网易 APM 数据处理系统实践——网易 焦智慧 [PPT](Conferences/⽹易APM数据处理系统实践.pdf)
+* 蘑菇街 App 的性能与稳定性实践——蘑菇街 银时 [PPT](Conferences/蘑菇街%20App%20的性能与稳定性实践.pdf)
+
+#### 2015 北京
+
+* 移动开发网络性能优化实践——携程 陈浩然 [PPT](Conferences/移动开发网络性能优化实践.pdf) [视频](http://www.infoq.com/cn/presentations/performance-optimization-of-mobile-development-network)
+* 美团移动平台背后的技术——美团 陈晓亮 [PPT](Conferences/美团移动平台背后的技术.pdf) [视频](http://www.infoq.com/cn/presentations/technology-of-meituan-mobile-platform)
+* 谈崩溃管理之实践——听云 杨凯 [PPT](Conferences/谈崩溃管理之实践.pdf) [视频](http://www.infoq.com/cn/presentations/performance-secrets-behind-350-million-mobile-devices)
+
+#### 2014 上海
+
+* 携程Mobile架构演化——携程 刘普功 [PPT](Conferences/携程Mobile架构演化.pdf) [视频](http://www.infoq.com/cn/presentations/ctrip-mobile-architecture-evolution)
 
 ## Books
 
