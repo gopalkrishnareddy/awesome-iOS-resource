@@ -32,6 +32,22 @@
 * [IM 即时通讯技术在多应用场景下的技术实现，以及性能调优——陈宜龙](Conferences/IM%20即时通讯技术在多应用场景下的技术实现，以及性能调优.pdf)
 * [搜狗输入法性能优化实践——李腾杰](Conferences/搜狗输入法性能优化实践.pdf)
 
+### SwiftConChina
+
+### 2016
+
+* [一个 Swift 项目网络层的变迁——陈乘方](Conferences/一个%20Swift%20项目网络层的变迁.pdf)
+* [理解MONAD——唐巧](Conferences/理解MONAD.pdf)
+* [逆向工程从ObjC到Swift.pdf——包涵卿](Conferences/逆向工程从ObjC到Swift.pdf)
+* [拥抱Swift 3.0与未来展望——图拉鼎](Conferences/拥抱Swift%203.0与未来展望.pdf)
+* [从数学函数角度理解函数式编程——丁峰](Conferences/从数学函数角度理解函数式编程.pdf)
+* [How To Parse Float Numbers——傅若愚](Conferences/How%20To%20Parse%20Float%20Numbers.pdf)
+* [Asynchronous Programming in Swift——刘冠杉](Conferences/Asynchronous%20Programming%20in%20Swift.pdf)
+* [Redux——方志刚](Conferences/Redux.pdf)
+* [Swift行走江湖指南-设计模式——老镇](Conferences/Swift行走江湖指南-设计模式.pdf)
+* [Swift语言的设计取舍及跨语言调用——董一凡](Conferences/Swift语言的设计取舍及跨语言调用.pdf)
+* [移动跨平台开发工具  Project Mira-Objective-C and Swift——tinyfool](Conferences/移动跨平台开发工具%20%20Project%20Mira-Objective-C%20and%20Swift.pdf)
+
 ### atSwift 
 
 #### 2017
