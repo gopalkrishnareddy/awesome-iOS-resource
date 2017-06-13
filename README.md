@@ -56,6 +56,18 @@
 
 * 携程Mobile架构演化——携程 刘普功 [PPT](Conferences/携程Mobile架构演化.pdf) [视频](http://www.infoq.com/cn/presentations/ctrip-mobile-architecture-evolution)
 
+### ArchSummit
+
+#### 2016 北京
+
+* 天下武功唯快不破：QQ 空间直播之路——腾讯 王磊 [PPT](Conferences/天下武功唯快不破：QQ%20空间直播之路.pdf)
+
+
+#### 2015 北京
+
+* 携程移动APP架构优化之旅——携程 陈浩然 [PPT](Conferences/携程移动APP架构优化之旅.pdf) [视频](http://www.infoq.com/cn/presentations/ctrip-mobile-app-architecture-optimization)
+* 移动CDN及直播性能优化——七牛 白顺龙 [PPT](Conferences/移动CDN及直播性能优化.pdf)
+
 ## Books
 
 * [Effective Objective-C 2.0  编写高质量iOS与OS X代码的52个有效方法](Books/Effective%20Objective-C%202.0%20%20编写高质量iOS与OS%20X代码的52个有效方法.pdf)
@@ -73,4 +85,6 @@
 * [iOS Hacking Guide](Books/iOS%20Hacking%20Guide.pdf)
 
 
+## Articles
+* [携程App的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
 
