@@ -4,6 +4,23 @@
 
 </p>
 
+A curated list of awesome iOS conferences, books and articles.
+
+Inspired by [awesome-ios](https://github.com/vsouza/awesome-ios).
+
+## Content
+* [Conferences](#conferences)
+	* [GMTC](#gmtc)
+	* [MDCC](#mdcc)
+	* [SwiftConChina](#swiftconchina)
+	* [atSwift](#atswift)
+	* [QCon](#qcon)
+	* [ArchSummit](#archsummit)
+	* [SDCC](#sdcc)
+	* [APMCon](#apmcon)
+	* [国外 iOS 技术大会](#国外-ios-技术大会)
+* [Books](#books)
+* [Articles](#articles)
 
 ## Conferences
 
