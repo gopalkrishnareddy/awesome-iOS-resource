@@ -274,6 +274,7 @@ the best ways to use are:
 * [The Mac Hacker's Handbook](Books/The%20Mac%20Hacker's%20Handbook.pdf)
 * [A Guide to Kernel Exploitation Attacking the Core](Books/A%20Guide%20to%20Kernel%20Exploitation%20Attacking%20the%20Core.pdf)
 * [The IDA Pro Book](Books/The.IDA.Pro.Book.pdf)
+* [MacOS and iOS Internals, Volume III: Security & Insecurity](http://www.newosxbook.com/index.php)
 
 ## Blogs
 
