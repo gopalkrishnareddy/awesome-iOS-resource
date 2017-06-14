@@ -267,6 +267,7 @@ the best ways to use are:
 * [iOS and OS X Network Programming Cookbook](Books/iOS%20and%20OS%20X%20Network%20Programming%20Cookbook.pdf)
 * [iOS应用逆向工程 分析与实战](Books/iOS应用逆向工程%20分析与实战.pdf)
 * [Swifter:100 个 Swift 必备Tips](Books/Swifter%20100个%20Swift%20必备%20Tips.pdf)
+* [函数式 Swift](Books/函数式%20Swift.epub)
 
 ## Blogs
 
