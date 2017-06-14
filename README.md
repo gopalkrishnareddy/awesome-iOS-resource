@@ -265,6 +265,8 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [App Life Balance](http://applifebalance.com/blog/)
 * [iOSDeveloperTips](http://iosdevelopertips.com/)
 * [Matt Gemmell](http://mattgemmell.com/)
+* [Thomas Hanning](http://www.thomashanning.com/)
+* [iOS-Blog](http://www.ios-blog.co.uk/)
 
 ### 国内
 * [王巍——OneV's Den](https://onevcat.com/#blog)
@@ -293,6 +295,8 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [郑宇琦( Enum )](http://posts.enumsblog.com/list)
 * [Kitten 的时间胶囊](http://kittenyang.com/)
 * [土土哥的技术Blog](http://tutuge.me/)
+* [Glow 技术团队博客](http://tech.glowing.com/cn/)
+* [Talk is cheap, Show me the world!](https://chengwey.com/)
 
 ## Articles
 
@@ -301,6 +305,9 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 ## Websites
 
 * [SwiftGG](http://swift.gg/)
+* [objc.io](https://www.objc.io/)
+* [ObjC 中国](https://www.objccn.io/)
+* [ManiacDev.Com](https://maniacdev.com/)
 
 ## Contributing
 
