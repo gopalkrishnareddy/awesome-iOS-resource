@@ -4,6 +4,10 @@
 
 </p>
 
+<p align='center'>
+  <em>Action is the wheel of upward, only action, rut will upward. Whatever grade now, as long as there is action,anything is possible.</em>
+</p>
+
 A curated list of awesome iOS conferences, books, blogs, articles and websites.
 
 Inspired by [awesome-ios](https://github.com/vsouza/awesome-ios).
@@ -284,6 +288,8 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [Florian Kugler](http://floriankugler.com/)
 * [Krzysztof Zabłocki](http://merowing.info/)
 * [iOS Development tips](http://iosdevtips.co/)
+* [AppCoda](http://www.appcoda.com/)
+* [Design+Code](https://designcode.io/)
 
 ### 国内
 * [王巍——OneV's Den](https://onevcat.com/#blog)
