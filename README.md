@@ -76,7 +76,7 @@ the best ways to use are:
 #### 2015
 
 * [Interface Builder实践与开源——孙源](Conferences/Interface%20Builder实践与开源.pdf)
-* [Let's ENJOY Swift——孙源](Conferences/Let's%20ENJOY%20Swift.pdf)
+* [Let's ENJOY Swift——陈乘方](Conferences/Let's%20ENJOY%20Swift.pdf)
 * [Apple Watch性能与产品实践——姜琢](Conferences/Apple%20Watch性能与产品实践.pdf)
 * [iOS开发请脱离教科书——王猛](Conferences/iOS开发请脱离教科书.pdf)
 * [Swift-烟花散尽俯首拾遗——王芳杰](Conferences/Swift-烟花散尽俯首拾遗.pdf)
