@@ -8,7 +8,7 @@
   <em>Action is the wheel of upward, only action, rut will upward. Whatever grade now, as long as there is action,anything is possible.</em>
 </p>
 
-# Awesome iOS Resource [![Awesome](Images/badge.svg)](https://github.com/vsouza/awesome-ios)
+# Awesome iOS Resource [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/vsouza/awesome-ios)
 
 **Manually curated collection of resources for iOS developers.**
 
