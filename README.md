@@ -12,13 +12,14 @@
 
 **Manually curated collection of resources for iOS developers.**
 
-A curated list of awesome iOS conferences, books, blogs, articles and websites.
-
 Inspired by [awesome-ios](https://github.com/vsouza/awesome-ios).
+
+A curated list of awesome iOS conferences, books, blogs, articles and websites.<br/>There is a lot of treasure scattered across the internet. This list is an attempt to bring to light those awesome resources which make their high-quality material i.e. conferences, books, blogs, articles & websites available online for free.
 
 ## How to Use
 
-awesome-iOS-resource is an amazing list of resources which committed to the aspect of iOS, the best ways to use are:
+awesome-iOS-resource is an amazing list of resources which committed to the aspect of iOS.<br/>
+the best ways to use are:
 
 - Ask for help via [Twitter](https://twitter.com/aozhimin0811)
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
