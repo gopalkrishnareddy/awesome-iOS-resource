@@ -353,4 +353,7 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 Your contributions are always welcome! send me a pull request or contact me [@aozhimin](https://twitter.com/aozhimin0811).
 
 ## License
+<a rel="license" href="https://www.gnu.org/licenses/lgpl-3.0.en.html"><img alt="GNU Lesser General Public License v3.0" style="border-width:0" src="https://www.gnu.org/graphics/lgplv3-147x51.png" /></a><br />This work is licensed under a [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+
+Please provide a link back to this repository.
 
