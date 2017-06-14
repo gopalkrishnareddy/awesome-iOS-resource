@@ -271,9 +271,7 @@ the best ways to use are:
 * [Advanced Swift](Books/Advanced%20Swift.pdf)
 * [Advanced Mac OS X Programming](Books/Advanced%20Mac%20OS%20X%20Programming.pdf)
 * [iOS Application Security: The Definitive Guide for Hackers and Developers](Books/iOS%20Application%20Security%20The%20Definitive%20Guide%20for%20Hackers%20and%20Developers.pdf)
-
-
-
+* [The Mac Hacker's Handbook](Books/The%20Mac%20Hacker's%20Handbook.pdf)
 
 ## Blogs
 
