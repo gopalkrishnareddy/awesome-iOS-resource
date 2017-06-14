@@ -4,7 +4,7 @@
 
 </p>
 
-A curated list of awesome iOS conferences, books, articles and blogs.
+A curated list of awesome iOS conferences, books, blogs, articles and websites.
 
 Inspired by [awesome-ios](https://github.com/vsouza/awesome-ios).
 
@@ -31,6 +31,7 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 	* [国外](#国外)
 	* [国内](#国内)
 * [Articles](#articles)
+* [Websites](#websites)
 
 ## Conferences
 
@@ -277,10 +278,15 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [bestswifter](https://bestswifter.com/#open)
 * [叶孤城](http://www.jianshu.com/u/b82d2721ba07)
 * [靛青K](https://blog.dianqk.org/)
+* [美团点评技术团队](http://tech.meituan.com/)
+* [微博@iOS程序犭袁 的blog](https://github.com/ChenYilong/iOSBlog)
 * [老谭笔记](http://www.tanhao.me/)
 * [图拉鼎](https://imtx.me/)
+* [iOS Security](http://security.ios-wiki.com/)
 * [戴鸣的博客](https://ming1016.github.io/)
+* [玉令天下的博客](http://yulingtianxia.com/)
 * [南峰子的技术博客](http://southpeak.github.io/)
+* [Casa Taloyum](https://casatwy.com/)
 * [mrriddler](http://blog.mrriddler.com/)
 * [冬瓜](http://http://www.desgard.com/)
 * [涂耀辉](http://www.jianshu.com/u/14431e509ae8)
@@ -292,6 +298,9 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 
 * [携程App的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
 
+## Websites
+
+* [SwiftGG](http://swift.gg/)
 
 ## Contributing
 
