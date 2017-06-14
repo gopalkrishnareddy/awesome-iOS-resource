@@ -265,6 +265,7 @@ the best ways to use are:
 * [iOS Hacking Guide](Books/iOS%20Hacking%20Guide.pdf)
 * CFHipsterRef [epub](Books/CFHipsterRef.epub) [PDF](Books/CFHipsterRef.pdf)
 * [iOS and OS X Network Programming Cookbook](Books/iOS%20and%20OS%20X%20Network%20Programming%20Cookbook.pdf)
+* [iOS应用逆向工程 分析与实战](Books/iOS应用逆向工程%20分析与实战.pdf)
 
 ## Blogs
 
