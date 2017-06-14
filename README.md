@@ -275,6 +275,7 @@ the best ways to use are:
 * [A Guide to Kernel Exploitation Attacking the Core](Books/A%20Guide%20to%20Kernel%20Exploitation%20Attacking%20the%20Core.pdf)
 * [The IDA Pro Book](Books/The.IDA.Pro.Book.pdf)
 * [MacOS and iOS Internals, Volume III: Security & Insecurity](http://www.newosxbook.com/index.php)
+* [Getting Started with LLVM Core Libraries](Books/Getting%20Started%20with%20LLVM%20Core%20Libraries.pdf)
 
 ## Blogs
 
