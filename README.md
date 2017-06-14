@@ -36,11 +36,11 @@ the best ways to use are:
 	* [ArchSummit](#archsummit)
 	* [SDCC](#sdcc)
 	* [APMCon](#apmcon)
-	* [国外 iOS 技术大会](#国外-ios-技术大会)
+	* [国外 iOS 技术大会](#国外-ios-技术大会-foreign-ios-technology-conference)
 * [Books](#books)
 * [Blogs](#blogs)
-	* [国外](#国外)
-	* [国内](#国内)
+	* [国外](#国外-foreign)
+	* [国内](#国内-internal)
 * [Articles](#articles)
 * [Websites](#websites)
 * [Contributing](#contributing)
@@ -133,7 +133,7 @@ the best ways to use are:
 
 ### QCon
 ---
-#### 2017	北京
+#### 2017	北京 (Beijing)
 
 * 移动APP性能监测实践（iOS篇——听云 杨凯 [PPT](Conferences/移动APP性能监测实践（iOS篇）.pdf) [视频](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice)
 * 网易乐得 “无埋点”数据采集实践之路——网易 庞辉 [PPT](Conferences/网易乐得%20“无埋点”数据采集实践之路.pdf)
@@ -141,46 +141,46 @@ the best ways to use are:
 * iOS App 内存专项实践：封闭系统下的大自由——腾讯 黄闻欣 [PPT](Conferences/iOS%20App%20内存专项实践：封闭系统下的大自由.pdf)
 * 去哪儿网快速 App 开发及问题解决平台实践——去哪儿 张子天 [PPT](Conferences/去哪儿网快速%20App%20开发及问题解决平台实践.pdf)
 
-#### 2016 北京
+#### 2016 北京 (Beijing)
 
 * 移动端全链路跟踪保障体系——蘑菇街 七米 [PPT](Conferences/移动端全链路跟踪保障体系.pdf) [视频](http://www.infoq.com/cn/presentations/mobile-terminal-full-link-tracking-and-security-system)
 * MVVM 与 FRP 编程实战——美团 臧成威 [PPT](Conferences/MVVM%20与%20FRP%20编程实战.pdf) [视频](http://www.infoq.com/cn/presentations/mvvm-and-frp-programming)
 
-#### 2016 上海
+#### 2016 上海 (Shanghai)
 
 * 移动端APM产品研发技能——听云 江赛 [PPT](Conferences/移动端APM产品研发技能.pdf)
 * 网易 APM 数据处理系统实践——网易 焦智慧 [PPT](Conferences/⽹易APM数据处理系统实践.pdf)
 * 蘑菇街 App 的性能与稳定性实践——蘑菇街 银时 [PPT](Conferences/蘑菇街%20App%20的性能与稳定性实践.pdf)
 
-#### 2015 北京
+#### 2015 北京 (Beijing)
 
 * 移动开发网络性能优化实践——携程 陈浩然 [PPT](Conferences/移动开发网络性能优化实践.pdf) [视频](http://www.infoq.com/cn/presentations/performance-optimization-of-mobile-development-network)
 * 美团移动平台背后的技术——美团 陈晓亮 [PPT](Conferences/美团移动平台背后的技术.pdf) [视频](http://www.infoq.com/cn/presentations/technology-of-meituan-mobile-platform)
 * 谈崩溃管理之实践——听云 杨凯 [PPT](Conferences/谈崩溃管理之实践.pdf) [视频](http://www.infoq.com/cn/presentations/performance-secrets-behind-350-million-mobile-devices)
 
-#### 2014 上海
+#### 2014 上海 (Shanghai)
 
 * 携程Mobile架构演化——携程 刘普功 [PPT](Conferences/携程Mobile架构演化.pdf) [视频](http://www.infoq.com/cn/presentations/ctrip-mobile-architecture-evolution)
 
 ### ArchSummit
 ---
-#### 2016 北京
+#### 2016 北京 (Beijing)
 
 * 天下武功唯快不破：QQ 空间直播之路——腾讯 王磊 [PPT](Conferences/天下武功唯快不破：QQ%20空间直播之路.pdf)
 
 
-#### 2015 北京
+#### 2015 北京 (Beijing)
 
 * 携程移动APP架构优化之旅——携程 陈浩然 [PPT](Conferences/携程移动APP架构优化之旅.pdf) [视频](http://www.infoq.com/cn/presentations/ctrip-mobile-app-architecture-optimization)
 * 移动CDN及直播性能优化——七牛 白顺龙 [PPT](Conferences/移动CDN及直播性能优化.pdf)
 
-#### 2016 深圳
+#### 2016 深圳 (Shenzhen)
 
 * 滴滴出行业务系统的架构升级——滴滴 杜欢 [PPT](Conferences/滴滴出行业务系统的架构升级.pdf) [视频](http://www.infoq.com/cn/presentations/didi-business-system-architecture-upgrade)
 
 ### SDCC
 ---
-#### 2017 上海
+#### 2017 上海 (Shanghai)
 
 * 新瓶旧酒——换个角度提升APP性能质量的实践之路——饿了么 高亮亮 [PPT](Conferences/新瓶旧酒——换个角度提升APP性能质量的实践之路.pdf) [视频](http://itdks.com/dakashuo/detail/1278#)
 
@@ -193,7 +193,7 @@ the best ways to use are:
 * [浅谈App优化](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-06.mp4) By 胡彪 饿了么移动技术部高级研发经理
 * [映客直播 iOS App 性能优化实践](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-07.mp4) By 刘凯 映客直播iOS高级开发工程师
 
-### 国外 iOS 技术大会
+### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
 
 * [iOSCon](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)
@@ -267,7 +267,7 @@ the best ways to use are:
 
 ## Blogs
 
-### 国外
+### 国外 (Foreign)
 
 * [NSHipster](http://nshipster.com/)
 * [Raywenderlich](https://www.raywenderlich.com/)
@@ -300,7 +300,7 @@ the best ways to use are:
 * [AppCoda](http://www.appcoda.com/)
 * [Design+Code](https://designcode.io/)
 
-### 国内
+### 国内 (Internal)
 * [王巍——OneV's Den](https://onevcat.com/#blog)
 * [王巍——Swifter.tips](http://swifter.tips/)
 * [MrPeak 杂货铺](http://mrpeak.cn/)
