@@ -264,6 +264,7 @@ the best ways to use are:
 * [OSX与iOS内核编程](Books/OSX与iOS内核编程.pdf)
 * [iOS Hacking Guide](Books/iOS%20Hacking%20Guide.pdf)
 * CFHipsterRef [epub](Books/CFHipsterRef.epub) [PDF](Books/CFHipsterRef.pdf)
+* [iOS and OS X Network Programming Cookbook](Books/iOS%20and%20OS%20X%20Network%20Programming%20Cookbook.pdf)
 
 ## Blogs
 
@@ -429,7 +430,7 @@ the best ways to use are:
 * [iOS Goodies](http://ios-goodies.com/)
 * [Cult of ﻿Mac (iOS)](http://www.cultofmac.com/)
 * [M﻿odern Web](https://modernweb.com/)
-* []()
+
 
 ## Maintainers
 
