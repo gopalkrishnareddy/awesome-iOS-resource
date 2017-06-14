@@ -267,13 +267,31 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [Matt Gemmell](http://mattgemmell.com/)
 * [Thomas Hanning](http://www.thomashanning.com/)
 * [iOS-Blog](http://www.ios-blog.co.uk/)
+* [mikeash.com: NSBlog](https://mikeash.com/pyblog/)
+* [Ryan Nystrom](http://whoisryannystrom.com/)
+* [Cocoaphony](http://robnapier.net/)
+* [Cocoa Is My Girlfriend](http://www.cimgf.com/)
+* [Ben Scheirman](http://benscheirman.com/)
+* [MKBlog](http://blog.mugunthkumar.com/)
+* [Peter Steinberger](http://petersteinberger.com/)
+* [Robb is  Robert Böhnke](http://robb.is/archive/)
+* [Indie Ambitions ← Looking forward to freedom from the daily grind](http://indieambitions.com/)
+* [Command Shift](http://commandshift.co.uk/)
+* [Think & Build](http://www.thinkandbuild.it/)
+* [nvie.com](http://nvie.com/)
+* [Itty Bitty Labs](http://blog.ittybittyapps.com/)
+* [Tim Duckett](https://adoptioncurve.net/)
+* [Florian Kugler](http://floriankugler.com/)
+* [Krzysztof Zabłocki](http://merowing.info/)
+* [iOS Development tips](http://iosdevtips.co/)
 
 ### 国内
 * [王巍——OneV's Den](https://onevcat.com/#blog)
 * [王巍——Swifter.tips](http://swifter.tips/)
 * [MrPeak 杂货铺](http://mrpeak.cn/)
 * [sunnyxx的技术博客](http://blog.sunnyxx.com/)
-* [一缕殇流化隐半边冰霜](http://www.jianshu.com/u/12201cdd5d7a)
+* [一缕殇流化隐半边冰霜——简书](http://www.jianshu.com/u/12201cdd5d7a)
+* [一缕殇流化隐半边冰霜——Halfrost's Field](https://halfrost.com/)
 * [故胤道长](http://www.jianshu.com/u/8d5b91490ca5)
 * [Alone_Monkey](http://www.blogfshare.com/)
 * [bang's blog](http://blog.cnbang.net/)
@@ -297,6 +315,7 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [土土哥的技术Blog](http://tutuge.me/)
 * [Glow 技术团队博客](http://tech.glowing.com/cn/)
 * [Talk is cheap, Show me the world!](https://chengwey.com/)
+* [Limboy's HQ](http://limboy.me/)
 
 ## Articles
 
@@ -308,6 +327,12 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [objc.io](https://www.objc.io/)
 * [ObjC 中国](https://www.objccn.io/)
 * [ManiacDev.Com](https://maniacdev.com/)
+* [iOS Dev Tools](https://iosdev.tools/)
+* [iOS Dev Weekly](http://iosdevweekly.com/)
+* [Custom Controls for iOS and OS X](https://www.cocoacontrols.com/)
+* [Tuts+](https://tutsplus.com/)
+* [Subjective-C · a study of innovative iOS interfaces](http://subjc.com/)
+* [iOS Goodies](http://ios-goodies.com/)
 
 ## Contributing
 
