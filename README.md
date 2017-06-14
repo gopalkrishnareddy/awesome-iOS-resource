@@ -1,12 +1,16 @@
 <p align="center">
 
-<img src="Images/logo.png" alt="Awesome" title="Awesome"/>
+<img src="Images/banner.png" alt="Awesome" title="Awesome"/>
 
 </p>
 
 <p align='center'>
   <em>Action is the wheel of upward, only action, rut will upward. Whatever grade now, as long as there is action,anything is possible.</em>
 </p>
+
+# Awesome iOS Resource [![Awesome](Images/badge.svg)](https://github.com/vsouza/awesome-ios)
+
+**Manually curated collection of resources for iOS developers.**
 
 A curated list of awesome iOS conferences, books, blogs, articles and websites.
 
@@ -340,6 +344,13 @@ awesome-iOS-resource is an amazing list of resources which committed to the aspe
 * [Subjective-C · a study of innovative iOS interfaces](http://subjc.com/)
 * [iOS Goodies](http://ios-goodies.com/)
 
+## Maintainers
+
+[aozhimin](https://twitter.com/aozhimin0811)
+
 ## Contributing
 
-Your contributions are always welcome!
+Your contributions are always welcome! send me a pull request or contact me [@aozhimin](https://twitter.com/aozhimin0811).
+
+## License
+
