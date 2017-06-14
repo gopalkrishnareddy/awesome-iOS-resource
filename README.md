@@ -272,6 +272,8 @@ the best ways to use are:
 * [Advanced Mac OS X Programming](Books/Advanced%20Mac%20OS%20X%20Programming.pdf)
 * [iOS Application Security: The Definitive Guide for Hackers and Developers](Books/iOS%20Application%20Security%20The%20Definitive%20Guide%20for%20Hackers%20and%20Developers.pdf)
 * [The Mac Hacker's Handbook](Books/The%20Mac%20Hacker's%20Handbook.pdf)
+* [A Guide to Kernel Exploitation Attacking the Core](Books/A%20Guide%20to%20Kernel%20Exploitation%20Attacking%20the%20Core.pdf)
+* [The IDA Pro Book](Books/The.IDA.Pro.Book.pdf)
 
 ## Blogs
 
