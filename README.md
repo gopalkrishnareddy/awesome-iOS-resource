@@ -268,6 +268,9 @@ the best ways to use are:
 * [iOS应用逆向工程 分析与实战](Books/iOS应用逆向工程%20分析与实战.pdf)
 * [Swifter:100 个 Swift 必备Tips](Books/Swifter%20100个%20Swift%20必备%20Tips.pdf)
 * [函数式 Swift](Books/函数式%20Swift.epub)
+* [Advanced Swift](Books/Advanced%20Swift.pdf)
+* [Advanced Mac OS X Programming](Books/Advanced%20Mac%20OS%20X%20Programming.pdf)
+
 
 ## Blogs
 
