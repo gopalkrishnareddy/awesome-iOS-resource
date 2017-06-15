@@ -6,6 +6,8 @@
 
 <p align='center'>
   <em>Action is the wheel of upward, only action, rut will upward. Whatever grade now, as long as there is action, anything is possible.</em>
+  <br/><br/>
+ <em>谨以此仓库献给那些和我一样坚守和奋战在一线的 iOS 开发者们</em>
 </p>
 
 # Awesome iOS Resource [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/vsouza/awesome-ios)
