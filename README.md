@@ -517,6 +517,7 @@ the best ways to use are:
 * [iOS Goodies](http://ios-goodies.com/)
 * [Cult of ﻿Mac (iOS)](http://www.cultofmac.com/)
 * [M﻿odern Web](https://modernweb.com/)
+* [AppSight](https://www.appsight.io/)
 
 
 ## Maintainers
