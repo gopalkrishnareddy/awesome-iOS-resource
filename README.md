@@ -31,6 +31,8 @@ the best ways to use are:
 
 * [Conferences](#conferences)
 	* [GMTC](#gmtc)
+	    * [2017](#2017)
+	    * [2016](#2016)
 	* [MDCC](#mdcc)
 	* [SwiftConChina](#swiftconchina)
 	* [atSwift](#atswift)
@@ -62,6 +64,34 @@ the best ways to use are:
 * [携程无线持续交付平台——赵辛贵](Conferences/携程无线持续交付平台.pdf)
 * [移动项目快速持续交付的工程化实践——林永坚](Conferences/携程无线持续交付平台.pdf)
 * [手机天猫面向业务的界面解决方案-Tangram——高嘉峻(伯灵)](Conferences/手机天猫面向业务的界面解决方案-Tangram.pdf)
+
+#### 2016
+
+* [滴滴的组件化实践与优化——李贤辉](Conferences/滴滴的组件化实践与优化.pdf)
+* [阿里巴巴HTTP 2.0实践及无线通信协议的演进之路——陈虓将](Conferences/阿里巴巴HTTP%202.0实践及无线通信协议的演进之路.pdf)
+* [微信客户端怎样应对弱网络——叶润桂](Conferences/微信客户端怎样应对弱网络.pdf)
+* [美团 iOS 客户端的构建思考与实践——罗泽响](Conferences/美团%20iOS%20客户端的构建思考与实践.pdf)
+* [支付宝APP的性能稳定性优化及运维实践——石世群](Conferences/支付宝APP的性能稳定性优化及运维实践.pdf)
+* [Facebook iOS App技术演化十年之路——覃超](Conferences/Facebook%20iOS%20App技术演化十年之路.pdf)
+* [聚划算iOS平台动态化方案LuaView——马召](Conferences/聚划算iOS平台动态化方案LuaView.pdf)
+* [iOS遗留系统上的架构重构——李剑](Conferences/iOS遗留系统上的架构重构.pdf)
+* [用RxSwift写易维护易读的愉悦代码——宋旭陶](Conferences/用RxSwift写易维护易读的愉悦代码.pdf)
+* [手机天猫解耦之路——马召](Conferences/手机天猫解耦之路.pdf)
+* [360手机卫士性能优化之路——刘刚](Conferences/360手机卫士性能优化之路.pdf)
+* [函数式编程中的Swift与Swift中的函数式编程——傅若愚](Conferences/函数式编程中的Swift与Swift中的函数式编程.pdf)
+* [Swift面向协议编程技术细节与工程演练——陈刚](Conferences/Swift面向协议编程技术细节与工程演练.pdf)
+* [当泛型遇上协议——蓝晨钰](Conferences/当泛型遇上协议.pdf)
+* [JSPatch成长之路——陈振焯](Conferences/JSPatch成长之路.pdf)
+* [From Java/Android to Swift iOS——张西涛](Conferences/From%20Java/Android%20to%20Swift%20iOS.pdf)
+* [Weex AppFramework架构设计和独立App构建实战——宁栗](Conferences/Weex%20AppFramework架构设计和独立App构建实战.pdf)
+* [跨平台的云服务SDK需要什么——梁宇鹏](Conferences/跨平台的云服务SDK需要什么.pdf)
+* [从 SDK 到编解码：视频直播架构解析——叶仲华](Conferences/从%20SDK%20到编解码：视频直播架构解析.pdf)
+* [Hybrid App之H5体验优化——王利华](Conferences/Hybrid%20App之H5体验优化.pdf)
+* [搭建React Native生态——魏晓军](Conferences/搭建React%20Native生态.pdf)
+* [万亿O2O移动平台的敏捷之术——郭晓铭](Conferences/万亿O2O移动平台的敏捷之术.pdf)
+* [微博复杂信息流的架构之道——邱晨](Conferences/微博复杂信息流的架构之道.pdf)
+* [React Native项目实战优化之路——王少鸣](Conferences/React%20Native项目实战优化之路.pdf)
+* [移动无线之测试到质量的转变——陈晔](Conferences/移动无线之测试到质量的转变.pdf)
 
 ### MDCC
 ---
