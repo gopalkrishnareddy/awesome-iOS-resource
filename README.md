@@ -43,6 +43,7 @@ the best ways to use are:
 	* [国内](#国内-internal)
 * [Articles](#articles)
 * [Websites](#websites)
+* [Maintainers](#maintainers)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -196,6 +197,7 @@ the best ways to use are:
 ### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
 
+* [WWDC](https://developer.apple.com/wwdc/)
 * [iOSCon](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)
 * [SwiftConf](https://swiftconf.com/)
 * [Pragma Conference](http://pragmaconference.com/)
@@ -422,6 +424,7 @@ the best ways to use are:
 * [Glow 技术团队博客](http://tech.glowing.com/cn/)
 * [Talk is cheap, Show me the world!](https://chengwey.com/)
 * [Limboy's HQ](http://limboy.me/)
+* [Draveness's Blog](http://draveness.me/)
 
 ## Articles
 
