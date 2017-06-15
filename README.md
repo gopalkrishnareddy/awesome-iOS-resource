@@ -38,6 +38,7 @@ the best ways to use are:
 	* [atSwift](#atswift)
 	* [QCon](#qcon)
 	* [ArchSummit](#archsummit)
+	* [MDay](#mday)
 	* [SDCC](#sdcc)
 	* [APMCon](#apmcon)
 	* [国外 iOS 技术大会](#国外-ios-技术大会-foreign-ios-technology-conference)
@@ -241,8 +242,15 @@ the best ways to use are:
 
 #### 第四季
 * [蘑菇街组件化体系的坎坷之路——蘑菇街 · 银时](Conferences/蘑菇街组件化体系的坎坷之路.pdf)
-* [去 Jenkins 的持续集成实践——豌豆荚 · 于金伦](Conferences/去%20Jenkins%20的持续集成实践.pdf)
+* [去 Jenkins 的持续集成实践——豌豆荚 · 于金伦](Conferences/UI%20自动化测试在支付宝的实践.pdf)
 * [百度地图 Crash 跟踪体系及修复经验分享——百度地图 · 刘旨晋](Conferences/百度地图%20Crash%20跟踪体系及修复经验分享.pdf)
+
+#### 第三季
+* [UI 自动化测试在支付宝的实践——支付宝 · 达峰](Conferences/UI%20自动化测试在支付宝的实践.pdf)
+* [React Native 在天猫的实践——天猫 · 斯肯](Conferences/React%20Native%20在天猫的实践.pdf)
+
+#### 第二季
+* [逆向工程在 iOS 开发中的简单实践——网易 · 老汉](Conferences/逆向工程在%20iOS%20开发中的简单实践.key)
 
 ### SDCC
 ---
