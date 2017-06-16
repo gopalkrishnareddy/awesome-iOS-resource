@@ -321,6 +321,7 @@ the best ways to use are:
 * [Functional Swift Conference](http://2017.funswiftconf.com/)
 * [Code Mobile](http://www.codemobile.co.uk/)
 * [SwiftAveiro](http://swiftaveiro.xyz/)
+* [LLVM Developers' Meeting](http://www.llvm.org/devmtg/) [**Conference Video**](https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ)
 
 ## Books
 
