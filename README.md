@@ -465,6 +465,7 @@ the best ways to use are:
 * [Sound of Silence](http://sound-of-silence.com/)
 * [Dejal Development Blog](http://www.dejal.com/blog/development)
 * [TechMagic Blog](http://blog.techmagic.co/)
+* [iCode Blog](http://www.icodeblog.com/)
 
 ### 国内 (Internal)
 * [王巍——OneV's Den](https://onevcat.com/#blog)
@@ -523,6 +524,7 @@ the best ways to use are:
 * [AppSight](https://www.appsight.io/)
 * [Swift by Robin Eggenkamp](https://swift.zeef.com/robin.eggenkamp)
 * [Swift 学习指引](http://www.swiftguide.cn/)
+* [iOSRE](http://iosre.com/)
 
 
 ## Maintainers
