@@ -322,6 +322,8 @@ the best ways to use are:
 * [Code Mobile](http://www.codemobile.co.uk/)
 * [SwiftAveiro](http://swiftaveiro.xyz/)
 * [LLVM Developers' Meeting](http://www.llvm.org/devmtg/) [**Conference Video**](https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ)
+* [[~]NSSpain](https://2017.nsspain.com/)
+* [Swift Language User Group](https://www.meetup.com/swift-language/)
 
 ## Books
 
