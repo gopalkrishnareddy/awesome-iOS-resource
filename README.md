@@ -469,6 +469,7 @@ the best ways to use are:
 * [Dejal Development Blog](http://www.dejal.com/blog/development)
 * [TechMagic Blog](http://blog.techmagic.co/)
 * [iCode Blog](http://www.icodeblog.com/)
+* [NatashaTheRobot](http://natashatherobot.com/)
 
 ### 国内 (Internal)
 * [王巍——OneV's Den](https://onevcat.com/#blog)
@@ -528,7 +529,7 @@ the best ways to use are:
 * [Swift by Robin Eggenkamp](https://swift.zeef.com/robin.eggenkamp)
 * [Swift 学习指引](http://www.swiftguide.cn/)
 * [iOSRE](http://iosre.com/)
-
+* [iOS Programming Subreddit](https://www.reddit.com/r/iOSProgramming/)
 
 ## Maintainers
 
