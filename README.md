@@ -501,13 +501,16 @@ the best ways to use are:
 
 ## Articles
 
+* [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
 * [携程App的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
+* [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
 
 ## Websites
-
+* [Apple Developer Forums](https://developer.apple.com/devforums/)
 * [SwiftGG](http://swift.gg/)
 * [objc.io](https://www.objc.io/)
 * [ObjC 中国](https://www.objccn.io/)
+* [ASCIIwwdc](http://asciiwwdc.com/)
 * [ManiacDev.Com](https://maniacdev.com/)
 * [iOS Dev Tools](https://iosdev.tools/)
 * [iOS Dev Weekly](http://iosdevweekly.com/)
@@ -518,6 +521,8 @@ the best ways to use are:
 * [Cult of ﻿Mac (iOS)](http://www.cultofmac.com/)
 * [M﻿odern Web](https://modernweb.com/)
 * [AppSight](https://www.appsight.io/)
+* [Swift by Robin Eggenkamp](https://swift.zeef.com/robin.eggenkamp)
+* [Swift 学习指引](http://www.swiftguide.cn/)
 
 
 ## Maintainers
