@@ -324,6 +324,7 @@ the best ways to use are:
 * [LLVM Developers' Meeting](http://www.llvm.org/devmtg/) [**Conference Video**](https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ)
 * [[~]NSSpain](https://2017.nsspain.com/)
 * [Swift Language User Group](https://www.meetup.com/swift-language/)
+* [Mobile East](http://mobileeast.net/me2012/)
 
 ## Books
 
