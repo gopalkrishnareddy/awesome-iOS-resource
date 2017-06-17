@@ -471,6 +471,8 @@ the best ways to use are:
 * [TechMagic Blog](http://blog.techmagic.co/)
 * [iCode Blog](http://www.icodeblog.com/)
 * [NatashaTheRobot](http://natashatherobot.com/)
+* [Coding Explorer Blog](http://www.codingexplorer.com/)
+* [Use Your Loaf](https://useyourloaf.com/)
 
 ### 国内 (Internal)
 * [王巍——OneV's Den](https://onevcat.com/#blog)
@@ -531,6 +533,13 @@ the best ways to use are:
 * [Swift 学习指引](http://www.swiftguide.cn/)
 * [iOSRE](http://iosre.com/)
 * [iOS Programming Subreddit](https://www.reddit.com/r/iOSProgramming/)
+* [Cocoa Dev Central](http://cocoadevcentral.com/)
+* [A Better Way to Learn Swift](https://thinkster.io/a-better-way-to-learn-swift)
+* [Tutorials Point](http://www.tutorialspoint.com/ios/index.htm)
+* [Code School](https://www.codeschool.com/courses/try-ios)
+* [NSCookbook](http://nscookbook.com/)
+* [Bloc — Build your first iOS game](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
+* [Ry's Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index)
 
 ## Maintainers
 
