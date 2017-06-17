@@ -325,6 +325,7 @@ the best ways to use are:
 * [[~]NSSpain](https://2017.nsspain.com/)
 * [Swift Language User Group](https://www.meetup.com/swift-language/)
 * [Mobile East](http://mobileeast.net/me2012/)
+* [iOS Meetup Groups](https://www.meetup.com/topics/ios/)
 
 ## Books
 
@@ -540,6 +541,7 @@ the best ways to use are:
 * [NSCookbook](http://nscookbook.com/)
 * [Bloc — Build your first iOS game](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 * [Ry's Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index)
+* [Cocoa Lit](http://cocoalit.com/)
 
 ## Maintainers
 
