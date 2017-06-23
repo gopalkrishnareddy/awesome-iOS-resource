@@ -267,6 +267,23 @@ the best ways to use are:
 * [浅谈App优化](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-06.mp4) By 胡彪 饿了么移动技术部高级研发经理
 * [映客直播 iOS App 性能优化实践](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-07.mp4) By 刘凯 映客直播iOS高级开发工程师
 
+### iDev
+---
+#### 2016
+
+* [探究响应式编程在 iOS 开发中的优势：不只是异步——宋旭陶](Conferences/探究响应式编程在%20iOS%20开发中的优势：不只是异步.pdf)
+* [Swift 服务器端编程：从入门到实践——杨晖](Conferences/Swift%20服务器端编程：从入门到实践.pdf)
+* [iOS 逆向工程一隅——沙梓社](Conferences/iOS%20逆向工程一隅.pdf)
+* [当我们在聊 React Native 的时候我们在聊什么——方志刚](Conferences/当我们在聊%20React%20Native%20的时候我们在聊什么.pdf)
+* [Mac OS X 内核结构简介——李亮](Conferences/Mac%20OS%20X%20内核结构简介.pdf)
+* [掌上链家组件化探索历程——璩介业](Conferences/掌上链家组件化探索历程.pdf)
+* [函数式编程中的设计模式——王文槿](Conferences/函数式编程中的设计模式.pdf)
+* [HomeKit 的价值和流程——黄锡雄](Conferences/HomeKit%20的价值和流程.pdf)
+* [把玩链接器：Linker 与 Loader 的前世今生——孙源](Conferences/把玩链接器：Linker%20与%20Loader%20的前世今生.pdf)
+* [单元测试与自动化——李智维](Conferences/单元测试与自动化.pdf)
+* [音视频流媒体播放体验优化实践——王晨](Conferences/音视频流媒体播放体验优化实践.pdf)
+* [响应式编程在 iOS 开发中的应用——臧成威](Conferences/响应式编程在%20iOS%20开发中的应用.pdf)
+
 ### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
 
