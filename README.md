@@ -41,6 +41,7 @@ the best ways to use are:
 	* [MDay](#mday)
 	* [SDCC](#sdcc)
 	* [APMCon](#apmcon)
+	* [iDev](#idev)
 	* [国外 iOS 技术大会](#国外-ios-技术大会-foreign-ios-technology-conference)
 * [Books](#books)
 * [Blogs](#blogs)
