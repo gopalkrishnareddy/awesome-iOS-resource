@@ -531,6 +531,7 @@ the best ways to use are:
 * [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
 * [携程App的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
 * [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
+* [【硅谷问道】Chris Lattner 访谈录（上）](http://www.jianshu.com/p/66a76df0db95)
 
 ## Websites
 * [Apple Developer Forums](https://developer.apple.com/devforums/)
