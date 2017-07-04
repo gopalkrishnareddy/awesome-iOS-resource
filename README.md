@@ -42,6 +42,7 @@ the best ways to use are:
 	* [SDCC](#sdcc)
 	* [APMCon](#apmcon)
 	* [iDev](#idev)
+	* [MOSEC](#mosec)
 	* [国外 iOS 技术大会](#国外-ios-技术大会-foreign-ios-technology-conference)
 * [Books](#books)
 * [Blogs](#blogs)
@@ -284,6 +285,16 @@ the best ways to use are:
 * [单元测试与自动化——李智维](Conferences/单元测试与自动化.pdf)
 * [音视频流媒体播放体验优化实践——王晨](Conferences/音视频流媒体播放体验优化实践.pdf)
 * [响应式编程在 iOS 开发中的应用——臧成威](Conferences/响应式编程在%20iOS%20开发中的应用.pdf)
+
+
+### MOSEC
+---
+
+MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mosec.org/)
+
+* [2017](https://github.com/aozhimin/MOSEC-2017)
+* [2016 secmob](https://github.com/secmob/mosec2016) 
+* [2016 jianqiangzhao](https://github.com/jianqiangzhao/mosec2016)
 
 ### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
