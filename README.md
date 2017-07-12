@@ -543,6 +543,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [携程App的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
 * [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
 * [【硅谷问道】Chris Lattner 访谈录（上）](http://www.jianshu.com/p/66a76df0db95)
+* [iOS weak 关键字漫谈](http://mrpeak.cn/blog/ios-weak/)
 
 ## Websites
 * [Apple Developer Forums](https://developer.apple.com/devforums/)
