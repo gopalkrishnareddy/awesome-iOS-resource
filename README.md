@@ -544,6 +544,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
 * [【硅谷问道】Chris Lattner 访谈录（上）](http://www.jianshu.com/p/66a76df0db95)
 * [iOS weak 关键字漫谈](http://mrpeak.cn/blog/ios-weak/)
+* [Dissecting objc_msgSend on ARM64](https://www.mikeash.com/pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html)
 
 ## Websites
 * [Apple Developer Forums](https://developer.apple.com/devforums/)
