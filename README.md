@@ -388,6 +388,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Cracking the Coding Interview, 4 Edition - 150 Programming Interview Questions and Solutions](Books/Cracking%20the%20Coding%20Interview%2C%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf)
 * [编程珠玑](Books/编程珠玑.pdf)
 * [剑指offer](Books/剑指offer.pdf)
+* [编程之美](Books/编程之美.pdf)
 
 ## Blogs
 
