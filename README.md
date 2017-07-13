@@ -387,6 +387,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Getting Started with LLVM Core Libraries](Books/Getting%20Started%20with%20LLVM%20Core%20Libraries.pdf)
 * [Cracking the Coding Interview, 4 Edition - 150 Programming Interview Questions and Solutions](Books/Cracking%20the%20Coding%20Interview%2C%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf)
 * [编程珠玑](Books/编程珠玑.pdf)
+* [剑指offer](Books/剑指offer.pdf)
 
 ## Blogs
 
