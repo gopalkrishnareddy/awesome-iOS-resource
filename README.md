@@ -560,6 +560,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [【硅谷问道】Chris Lattner 访谈录（上）](http://www.jianshu.com/p/66a76df0db95)
 * [iOS weak 关键字漫谈](http://mrpeak.cn/blog/ios-weak/)
 * [Dissecting objc_msgSend on ARM64](https://www.mikeash.com/pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html)
+* [Background check: multitasking on iOS throughout the years](http://irace.me/backgrounding)
 
 ## Websites
 
