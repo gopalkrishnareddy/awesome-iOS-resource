@@ -550,6 +550,8 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 [back to top](#readme) 
 
+* [Customizing the file header comment and other text macros in Xcode 9
+](https://oleb.net/blog/2017/07/xcode-9-text-macros/)
 * [What's New in LLVM 9](http://yulingtianxia.com/blog/2017/07/17/What-s-New-in-LLVM-2017/#Link-Time-Optimization)
 * [深入剖析 iOS 性能优化](https://ming1016.github.io/2017/06/20/deeply-ios-performance-optimization/#more)
 * [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
