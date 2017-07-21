@@ -203,7 +203,7 @@ the best ways to use are:
 #### 2016 北京 (Beijing)
 
 * 天下武功唯快不破：QQ 空间直播之路——腾讯 王磊 [PPT](Conferences/天下武功唯快不破：QQ%20空间直播之路.pdf)
-
+* HTTPS 的性能优化——腾讯 罗成 [PPT](Conferences/HTTPS%20性能优化.pdf) [视频](https://v.qq.com/x/page/b0366ehbmo4.html) [文章](http://www.sohu.com/a/126685728_355140)
 
 #### 2015 北京 (Beijing)
 
