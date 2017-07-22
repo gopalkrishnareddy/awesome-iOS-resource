@@ -610,6 +610,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Objective-C Automatic Reference Counting (ARC)](https://clang.llvm.org/docs/AutomaticReferenceCounting.html)
 * [Writing an LLVM Backend](https://llvm.org/docs/WritingAnLLVMBackend.html)
 * [Apple's "Lazy" DWARF Scheme](http://wiki.dwarfstd.org/index.php?title=Apple%27s_%22Lazy%22_DWARF_Scheme)
+* [LLDB Python Reference](https://lldb.llvm.org/python-reference.html)
 
 ## Maintainers
 
