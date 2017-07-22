@@ -583,6 +583,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [[objc explain]: objc_msgSend_fpret](http://www.sealiesoftware.com/blog/archive/2008/11/16/objc_explain_objc_msgSend_fpret.html)
 * [[objc explain]: objc_msgSend_stret](http://www.sealiesoftware.com/blog/archive/2008/10/30/objc_explain_objc_msgSend_stret.html)
 * [[objc explain]: Non-fragile ivars ](http://www.sealiesoftware.com/blog/archive/2009/01/27/objc_explain_Non-fragile_ivars.html)
+* [HTTPS 原理篇](https://yanhooit.gitbooks.io/ios_study_note/content/httpsyuan_li_pian.html)
 
 ## Websites
 
