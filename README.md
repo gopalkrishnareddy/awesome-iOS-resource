@@ -569,6 +569,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [[objc explain]: So you crashed in objc_msgSend()](http://sealiesoftware.com/blog/archive/2008/09/22/objc_explain_So_you_crashed_in_objc_msgSend.html)
 * [Handling unhandled exceptions and signals](https://www.cocoawithlove.com/2010/05/handling-unhandled-exceptions-and.html)
 * [When is a Leak not a Leak? Using Heapshot Analysis to Find Undesirable Memory Growth](http://www.friday.com/bbum/2010/10/17/when-is-a-leak-not-a-leak-using-heapshot-analysis-to-find-undesirable-memory-growth/)
+* [Key-Value Observing Done Right](https://www.mikeash.com/pyblog/key-value-observing-done-right.html)
 
 ## Websites
 
