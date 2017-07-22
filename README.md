@@ -566,6 +566,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Background Timers](https://www.mikeash.com/pyblog/friday-qa-2010-07-02-background-timers.html)
 * [Accessors, Memory Management, and Thread Safety](https://www.mikeash.com/pyblog/friday-qa-2010-12-03-accessors-memory-management-and-thread-safety.html)
 * [Smashing The Stack For Fun And Profit](http://phrack.org/issues/49/14.html#article)
+* [[objc explain]: So you crashed in objc_msgSend()](http://sealiesoftware.com/blog/archive/2008/09/22/objc_explain_So_you_crashed_in_objc_msgSend.html)
 
 ## Websites
 
