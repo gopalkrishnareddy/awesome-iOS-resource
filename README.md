@@ -630,6 +630,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Transitioning to ARC Release Notes](https://developer.apple.com/library/content/releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html)
 * [Advanced Memory Management Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html)
 * [Getting Started: Building and Running Clang](https://clang.llvm.org/get_started.html)
+* [APPLE’S EXTENSIONS TO C](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1370.pdf)
 
 ## Maintainers
 
