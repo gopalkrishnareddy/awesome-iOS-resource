@@ -629,6 +629,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [LLDB Python Reference](https://lldb.llvm.org/python-reference.html)
 * [Transitioning to ARC Release Notes](https://developer.apple.com/library/content/releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html)
 * [Advanced Memory Management Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html)
+* [Getting Started: Building and Running Clang](https://clang.llvm.org/get_started.html)
 
 ## Maintainers
 
