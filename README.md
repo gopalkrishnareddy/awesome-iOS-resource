@@ -576,6 +576,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [objc_msgSend() Tour Part 1: The Road Map](http://www.friday.com/bbum/2009/12/18/objc_msgsend-part-1-the-road-map/)
 * [objc_msgSend() Tour Part 2: Setting the Stage](http://www.friday.com/bbum/2009/12/18/objc_msgsend-tour-part-2-setting-the-stage/)
 * [objc_msgSend() Tour Part 3: The Fast Path](http://www.friday.com/bbum/2009/12/18/objc_msgsend-tour-part-3-the-fast-path/)
+* [objc_msgSend() Tour Part 4: Method Lookup & Some Odds and Ends](http://www.friday.com/bbum/2010/02/04/objc_msgsend-tour-part-4-method-lookup-some-odds-and-ends/)
 
 ## Websites
 
