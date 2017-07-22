@@ -574,6 +574,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Method Replacement for Fun and Profit](https://www.mikeash.com/pyblog/friday-qa-2010-01-29-method-replacement-for-fun-and-profit.html)
 * [Objective-C: Logging Messages to Nil](http://www.friday.com/bbum/2008/01/02/objective-c-logging-messages-to-nil/)
 * [objc_msgSend() Tour Part 1: The Road Map](http://www.friday.com/bbum/2009/12/18/objc_msgsend-part-1-the-road-map/)
+* [objc_msgSend() Tour Part 2: Setting the Stage](http://www.friday.com/bbum/2009/12/18/objc_msgsend-tour-part-2-setting-the-stage/)
 
 ## Websites
 
