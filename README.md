@@ -632,6 +632,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Getting Started: Building and Running Clang](https://clang.llvm.org/get_started.html)
 * [APPLE’S EXTENSIONS TO C](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1370.pdf)
 * [Language Specification for Blocks](https://clang.llvm.org/docs/BlockLanguageSpec.html)
+* [Block Implementation Specification](https://clang.llvm.org/docs/Block-ABI-Apple.html)
 
 ## Maintainers
 
