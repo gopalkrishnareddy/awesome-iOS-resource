@@ -606,6 +606,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 [back to top](#readme) 
 
 * [Objective-C Automatic Reference Counting (ARC)](https://clang.llvm.org/docs/AutomaticReferenceCounting.html)
+* [Writing an LLVM Backend](https://llvm.org/docs/WritingAnLLVMBackend.html)
 
 ## Maintainers
 
