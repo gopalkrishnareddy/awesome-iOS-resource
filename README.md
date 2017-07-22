@@ -562,6 +562,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Dissecting objc_msgSend on ARM64](https://www.mikeash.com/pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html)
 * [Background check: multitasking on iOS throughout the years](http://irace.me/backgrounding)
 * [NSRunLoop Internals](https://www.mikeash.com/pyblog/friday-qa-2010-01-01-nsrunloop-internals.html)
+* [Background Timers](https://www.mikeash.com/pyblog/friday-qa-2010-07-02-background-timers.html)
 
 ## Websites
 
