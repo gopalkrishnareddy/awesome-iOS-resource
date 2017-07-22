@@ -577,6 +577,12 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [objc_msgSend() Tour Part 2: Setting the Stage](http://www.friday.com/bbum/2009/12/18/objc_msgsend-tour-part-2-setting-the-stage/)
 * [objc_msgSend() Tour Part 3: The Fast Path](http://www.friday.com/bbum/2009/12/18/objc_msgsend-tour-part-3-the-fast-path/)
 * [objc_msgSend() Tour Part 4: Method Lookup & Some Odds and Ends](http://www.friday.com/bbum/2010/02/04/objc_msgsend-tour-part-4-method-lookup-some-odds-and-ends/)
+* [[objc explain]: Non-pointer isa](http://www.sealiesoftware.com/blog/archive/2013/09/24/objc_explain_Non-pointer_isa.html)
+* [[objc explain]: objc_msgSend_vtable](http://www.sealiesoftware.com/blog/archive/2011/06/17/objc_explain_objc_msgSend_vtable.html)
+* [[objc explain]: Classes and metaclasses](http://sealiesoftware.com/blog/archive/2009/04/14/objc_explain_Classes_and_metaclasses.html)
+* [[objc explain]: objc_msgSend_fpret](http://www.sealiesoftware.com/blog/archive/2008/11/16/objc_explain_objc_msgSend_fpret.html)
+* [[objc explain]: objc_msgSend_stret](http://www.sealiesoftware.com/blog/archive/2008/10/30/objc_explain_objc_msgSend_stret.html)
+* [[objc explain]: Non-fragile ivars ](http://www.sealiesoftware.com/blog/archive/2009/01/27/objc_explain_Non-fragile_ivars.html)
 
 ## Websites
 
