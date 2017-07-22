@@ -628,6 +628,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Apple's "Lazy" DWARF Scheme](http://wiki.dwarfstd.org/index.php?title=Apple%27s_%22Lazy%22_DWARF_Scheme)
 * [LLDB Python Reference](https://lldb.llvm.org/python-reference.html)
 * [Transitioning to ARC Release Notes](https://developer.apple.com/library/content/releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html)
+* [Advanced Memory Management Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html)
 
 ## Maintainers
 
