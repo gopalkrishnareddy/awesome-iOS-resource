@@ -546,6 +546,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Talk is cheap, Show me the world!](https://chengwey.com/)
 * [Limboy's HQ](http://limboy.me/)
 * [Draveness's Blog](http://draveness.me/)
+* [WeRead团队博客](http://wereadteam.github.io/)
 
 ## Articles
 
