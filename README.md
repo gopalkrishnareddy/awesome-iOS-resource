@@ -394,6 +394,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [编程之美](Books/编程之美.pdf)
 * [程序员面试金典 第5版](Books/程序员面试金典%20第5版.pdf)
 * [The NSHipster Fake Book](Books/The%20NSHipster%20Fake%20Book.pdf)
+* [Obscure Topics In Cocoa & Objective-C](Books/Obscure%20Topics%20In%20Cocoa%20&%20Objective-C.pdf)
 
 ## Blogs
 
