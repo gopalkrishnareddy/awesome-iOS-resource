@@ -517,6 +517,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Use Your Loaf](https://useyourloaf.com/)
 
 ### 国内 (Internal)
+
 * [王巍——OneV's Den](https://onevcat.com/#blog)
 * [王巍——Swifter.tips](http://swifter.tips/)
 * [MrPeak 杂货铺](http://mrpeak.cn/)
@@ -554,12 +555,17 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 [back to top](#readme) 
 
+### Network
+* [携程 App 的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
+* [2016年携程 App 网络服务通道治理和性能优化实践](http://www.infoq.com/cn/articles/app-network-service-and-performance-optimization-of-ctrip)
+
+### Architecture
+* [携程移动 App 架构优化之旅](http://www.infoq.com/cn/articles/ctrip-app-architecture)
 * [Customizing the file header comment and other text macros in Xcode 9
 ](https://oleb.net/blog/2017/07/xcode-9-text-macros/)
 * [What's New in LLVM 9](http://yulingtianxia.com/blog/2017/07/17/What-s-New-in-LLVM-2017/#Link-Time-Optimization)
 * [深入剖析 iOS 性能优化](https://ming1016.github.io/2017/06/20/deeply-ios-performance-optimization/#more)
 * [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
-* [携程App的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
 * [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
 * [【硅谷问道】Chris Lattner 访谈录（上）](http://www.jianshu.com/p/66a76df0db95)
 * [iOS weak 关键字漫谈](http://mrpeak.cn/blog/ios-weak/)
