@@ -558,30 +558,45 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 ### Network
 * [携程 App 的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
 * [2016年携程 App 网络服务通道治理和性能优化实践](http://www.infoq.com/cn/articles/app-network-service-and-performance-optimization-of-ctrip)
+* [HTTPS 原理篇](https://yanhooit.gitbooks.io/ios_study_note/content/httpsyuan_li_pian.html)
 
 ### Architecture
+* [iOS Architecture Patterns Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 * [携程移动 App 架构优化之旅](http://www.infoq.com/cn/articles/ctrip-app-architecture)
-* [Customizing the file header comment and other text macros in Xcode 9
-](https://oleb.net/blog/2017/07/xcode-9-text-macros/)
-* [What's New in LLVM 9](http://yulingtianxia.com/blog/2017/07/17/What-s-New-in-LLVM-2017/#Link-Time-Optimization)
-* [深入剖析 iOS 性能优化](https://ming1016.github.io/2017/06/20/deeply-ios-performance-optimization/#more)
-* [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
-* [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
-* [【硅谷问道】Chris Lattner 访谈录（上）](http://www.jianshu.com/p/66a76df0db95)
-* [iOS weak 关键字漫谈](http://mrpeak.cn/blog/ios-weak/)
-* [Dissecting objc_msgSend on ARM64](https://www.mikeash.com/pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html)
-* [Background check: multitasking on iOS throughout the years](http://irace.me/backgrounding)
-* [NSRunLoop Internals](https://www.mikeash.com/pyblog/friday-qa-2010-01-01-nsrunloop-internals.html)
-* [Background Timers](https://www.mikeash.com/pyblog/friday-qa-2010-07-02-background-timers.html)
-* [Accessors, Memory Management, and Thread Safety](https://www.mikeash.com/pyblog/friday-qa-2010-12-03-accessors-memory-management-and-thread-safety.html)
-* [Smashing The Stack For Fun And Profit](http://phrack.org/issues/49/14.html#article)
-* [[objc explain]: So you crashed in objc_msgSend()](http://sealiesoftware.com/blog/archive/2008/09/22/objc_explain_So_you_crashed_in_objc_msgSend.html)
-* [Handling unhandled exceptions and signals](https://www.cocoawithlove.com/2010/05/handling-unhandled-exceptions-and.html)
+
+### Memory management
 * [When is a Leak not a Leak? Using Heapshot Analysis to Find Undesirable Memory Growth](http://www.friday.com/bbum/2010/10/17/when-is-a-leak-not-a-leak-using-heapshot-analysis-to-find-undesirable-memory-growth/)
-* [Key-Value Observing Done Right](https://www.mikeash.com/pyblog/key-value-observing-done-right.html)
+* [iOS weak 关键字漫谈](http://mrpeak.cn/blog/ios-weak/)
+* [Accessors, Memory Management, and Thread Safety](https://www.mikeash.com/pyblog/friday-qa-2010-12-03-accessors-memory-management-and-thread-safety.html)
+
+### Xcode
+
+* [Customizing the file header comment and other text macros in Xcode 9](https://oleb.net/blog/2017/07/xcode-9-text-macros/)
+
+### LLVM
+
+* [What's New in LLVM 9](http://yulingtianxia.com/blog/2017/07/17/What-s-New-in-LLVM-2017/#Link-Time-Optimization)
+
+### CocoaPods
+
+* [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
+
+### Performance optimization
+
+* [深入剖析 iOS 性能优化](https://ming1016.github.io/2017/06/20/deeply-ios-performance-optimization/#more)
+
+### NSRunLoop
+
+* [NSRunLoop Internals](https://www.mikeash.com/pyblog/friday-qa-2010-01-01-nsrunloop-internals.html)
+
+### Low-Level
+
+* [Dissecting objc_msgSend on ARM64](https://www.mikeash.com/pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html)
+* [Smashing The Stack For Fun And Profit](http://phrack.org/issues/49/14.html#article)
+
+### Runtime
+
 * [Objective-C Messaging](https://www.mikeash.com/pyblog/friday-qa-2009-03-20-objective-c-messaging.html)
-* [Method Replacement for Fun and Profit](https://www.mikeash.com/pyblog/friday-qa-2010-01-29-method-replacement-for-fun-and-profit.html)
-* [Objective-C: Logging Messages to Nil](http://www.friday.com/bbum/2008/01/02/objective-c-logging-messages-to-nil/)
 * [objc_msgSend() Tour Part 1: The Road Map](http://www.friday.com/bbum/2009/12/18/objc_msgsend-part-1-the-road-map/)
 * [objc_msgSend() Tour Part 2: Setting the Stage](http://www.friday.com/bbum/2009/12/18/objc_msgsend-tour-part-2-setting-the-stage/)
 * [objc_msgSend() Tour Part 3: The Fast Path](http://www.friday.com/bbum/2009/12/18/objc_msgsend-tour-part-3-the-fast-path/)
@@ -592,8 +607,21 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [[objc explain]: objc_msgSend_fpret](http://www.sealiesoftware.com/blog/archive/2008/11/16/objc_explain_objc_msgSend_fpret.html)
 * [[objc explain]: objc_msgSend_stret](http://www.sealiesoftware.com/blog/archive/2008/10/30/objc_explain_objc_msgSend_stret.html)
 * [[objc explain]: Non-fragile ivars ](http://www.sealiesoftware.com/blog/archive/2009/01/27/objc_explain_Non-fragile_ivars.html)
-* [HTTPS 原理篇](https://yanhooit.gitbooks.io/ios_study_note/content/httpsyuan_li_pian.html)
-* [iOS Architecture Patterns Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+* [[objc explain]: So you crashed in objc_msgSend()](http://sealiesoftware.com/blog/archive/2008/09/22/objc_explain_So_you_crashed_in_objc_msgSend.html)
+* [Method Replacement for Fun and Profit](https://www.mikeash.com/pyblog/friday-qa-2010-01-29-method-replacement-for-fun-and-profit.html)
+
+### KVO
+
+* [Key-Value Observing Done Right](https://www.mikeash.com/pyblog/key-value-observing-done-right.html)
+
+### Other
+
+* [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
+* [【硅谷问道】Chris Lattner 访谈录（上）](http://www.jianshu.com/p/66a76df0db95)
+* [Background check: multitasking on iOS throughout the years](http://irace.me/backgrounding)
+* [Background Timers](https://www.mikeash.com/pyblog/friday-qa-2010-07-02-background-timers.html)
+* [Handling unhandled exceptions and signals](https://www.cocoawithlove.com/2010/05/handling-unhandled-exceptions-and.html)
+* [Objective-C: Logging Messages to Nil](http://www.friday.com/bbum/2008/01/02/objective-c-logging-messages-to-nil/)
 * [Public Service Announcement: You Should Not Force Quit Apps on iOS](https://daringfireball.net/2017/07/you_should_not_force_quit_apps)
 
 ## Websites
