@@ -563,6 +563,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 ### Architecture
 
+* [京东 iOS 客户端组件管理实践](http://www.infoq.com/cn/articles/jd-ios-component-management)
 * [iOS Architecture Patterns Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 * [携程移动 App 架构优化之旅](http://www.infoq.com/cn/articles/ctrip-app-architecture)
 
