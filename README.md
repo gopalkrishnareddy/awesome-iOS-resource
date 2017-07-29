@@ -560,6 +560,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [携程 App 的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
 * [2016年携程 App 网络服务通道治理和性能优化实践](http://www.infoq.com/cn/articles/app-network-service-and-performance-optimization-of-ctrip)
 * [HTTPS 原理篇](https://yanhooit.gitbooks.io/ios_study_note/content/httpsyuan_li_pian.html)
+* [iOS 中 HTTPS 证书验证浅析](https://mp.weixin.qq.com/s/-fLLTtip509K6pNOTkflPQ)
 
 ### Architecture
 
