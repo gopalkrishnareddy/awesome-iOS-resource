@@ -636,6 +636,10 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 [WKWebView 那些坑](https://mp.weixin.qq.com/s/rhYKLIbXOsUJC_n6dt9UfA)
 
+### Debug
+
+* [教你 Debug 的正确姿势——记一次 CoreMotion 的 Crash](https://mp.weixin.qq.com/s/egEQX_dxWqAoRvKanVAwJQ)
+
 ### Low-Level
 
 * [Dissecting objc_msgSend on ARM64](https://www.mikeash.com/pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html)
