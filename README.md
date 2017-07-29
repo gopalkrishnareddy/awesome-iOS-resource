@@ -585,9 +585,15 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 * [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
 
-### Performance optimization
+### Performance 
+
+#### Optimization
 
 * [深入剖析 iOS 性能优化](https://ming1016.github.io/2017/06/20/deeply-ios-performance-optimization/#more)
+
+#### Monitor
+
+* [iOS 性能监控方案 Wedjat](https://github.com/aozhimin/iOS-Monitor-Platform)
 
 ### NSRunLoop
 
