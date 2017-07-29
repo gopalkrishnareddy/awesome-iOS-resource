@@ -594,6 +594,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 #### Monitor
 
 * [iOS 性能监控方案 Wedjat](https://github.com/aozhimin/iOS-Monitor-Platform)
+* [微信客户端性能监控和优化简述](http://www.infoq.com/cn/news/2017/07/wechat-client-performance-tuning?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
 
 ### NSRunLoop
 
