@@ -620,6 +620,11 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 * [Key-Value Observing Done Right](https://www.mikeash.com/pyblog/key-value-observing-done-right.html)
 
+
+### Continuous integration
+
+* [iOS Continous integration: Xcode Server, Jenkins, Travis and fastlane](http://thebugcode.github.io/ios-continous-integration-choosing-a-build-server-and-tooling/)
+
 ### Low-Level
 
 * [Dissecting objc_msgSend on ARM64](https://www.mikeash.com/pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html)
