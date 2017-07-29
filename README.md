@@ -594,6 +594,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 #### Monitor
 
+* [iOS App 稳定性指标及监测](https://juejin.im/post/58ca0832a22b9d006418fe43)
 * [iOS 性能监控方案 Wedjat](https://github.com/aozhimin/iOS-Monitor-Platform)
 * [微信客户端性能监控和优化简述](http://www.infoq.com/cn/news/2017/07/wechat-client-performance-tuning?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
 * [移动端性能监控方案 Hertz](https://tech.meituan.com/hertz.html)
