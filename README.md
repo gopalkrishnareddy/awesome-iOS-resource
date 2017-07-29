@@ -644,6 +644,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 * [Dissecting objc_msgSend on ARM64](https://www.mikeash.com/pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html)
 * [Smashing The Stack For Fun And Profit](http://phrack.org/issues/49/14.html#article)
+* [关于 Block 中捕获 self 的分析](https://dev.qq.com/topic/590c2190142eee2b6b973590)
 
 ### Other
 
