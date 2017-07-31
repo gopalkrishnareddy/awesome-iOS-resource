@@ -627,10 +627,10 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 * [Key-Value Observing Done Right](https://www.mikeash.com/pyblog/key-value-observing-done-right.html)
 
-
 ### Continuous integration
 
 * [iOS Continous integration: Xcode Server, Jenkins, Travis and fastlane](http://thebugcode.github.io/ios-continous-integration-choosing-a-build-server-and-tooling/)
+* [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
 
 ### Behavior analysis
 
