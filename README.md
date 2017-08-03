@@ -601,6 +601,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [深入剖析 iOS 性能优化](https://ming1016.github.io/2017/06/20/deeply-ios-performance-optimization/#more)
 * [优化UITableViewCell高度计算的那些事](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
 * [25 iOS App Performance Tips & Tricks](https://www.raywenderlich.com/31166/25-ios-app-performance-tips-tricks) [iOS应用性能调优的25个建议和技巧](http://blog.jobbole.com/37984/)
+* [iOS性能优化](http://www.jianshu.com/p/9e1f0b44935c)
 
 #### Monitor
 
