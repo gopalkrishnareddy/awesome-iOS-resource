@@ -571,6 +571,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [iOS Architecture Patterns Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 * [携程移动 App 架构优化之旅](http://www.infoq.com/cn/articles/ctrip-app-architecture)
 * [iOS 应用架构现状分析](http://mrpeak.cn/blog/ios-arch/)
+* [iOS应用架构谈 组件化方案](https://casatwy.com/iOS-Modulization.html)
 
 ### Memory management
 
@@ -663,6 +664,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Handling unhandled exceptions and signals](https://www.cocoawithlove.com/2010/05/handling-unhandled-exceptions-and.html)
 * [Objective-C: Logging Messages to Nil](http://www.friday.com/bbum/2008/01/02/objective-c-logging-messages-to-nil/)
 * [Public Service Announcement: You Should Not Force Quit Apps on iOS](https://daringfireball.net/2017/07/you_should_not_force_quit_apps)
+* [浅谈 iOS SDK 开发（一）五种 Mach-O 类型的凛冬之战](https://github.com/cbangchen/UnofficialHistory/blob/master/%E6%B5%85%E8%B0%88%20iOS%20SDK%20%E5%BC%80%E5%8F%91/%E6%B5%85%E8%B0%88%20iOS%20SDK%20%E5%BC%80%E5%8F%91%EF%BC%88%E4%B8%80%EF%BC%89%E4%BA%94%E7%A7%8D%20Mach-O%20%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%87%9B%E5%86%AC%E4%B9%8B%E6%88%98.markdown)
 
 ## Websites
 
