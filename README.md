@@ -62,6 +62,7 @@ the best ways to use are:
 	* [Runtime](#runtime)
 	* [KVO](#kvo)
 	* [Continuous Integration](#continuous-integration)
+	* [Behavior Analysis](#behavior-analysis)
 	* [Web](#web)
 	* [Debug](#debug)
 	* [Low-Level](#low-level)
