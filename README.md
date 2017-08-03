@@ -579,6 +579,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 ### Interview
 
 * [招聘一个靠谱的 iOS](http://blog.sunnyxx.com/2015/07/04/ios-interview/) [参考答案](https://github.com/ChenYilong/iOSInterviewQuestions)
+* [上级向的十个iOS面试问题](https://onevcat.com/2013/04/ios-interview/)
 
 ### Network
 
