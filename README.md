@@ -551,6 +551,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Limboy's HQ](http://limboy.me/)
 * [Draveness's Blog](http://draveness.me/)
 * [WeRead团队博客](http://wereadteam.github.io/)
+* [百度Hi iOS团队技术周报](https://baiduhidevios.github.io/)
 * [Midnight Summer Dream](http://mayuyu.io/)
 
 ## Articles
