@@ -578,6 +578,8 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 ### Interview
 
+* [招聘一个靠谱的 iOS](http://blog.sunnyxx.com/2015/07/04/ios-interview/) [参考答案](https://github.com/ChenYilong/iOSInterviewQuestions)
+
 ### Network
 
 * [携程 App 的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
