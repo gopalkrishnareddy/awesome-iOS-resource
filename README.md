@@ -594,7 +594,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [iOS应用架构谈 开篇](https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 * [软件架构模式](https://www.gitbook.com/book/bboyfeiyu/software-architecture-patterns/details)
 
-### Memory management
+### Memory Management
 
 * [When is a Leak not a Leak? Using Heapshot Analysis to Find Undesirable Memory Growth](http://www.friday.com/bbum/2010/10/17/when-is-a-leak-not-a-leak-using-heapshot-analysis-to-find-undesirable-memory-growth/)
 * [iOS weak 关键字漫谈](http://mrpeak.cn/blog/ios-weak/)
@@ -654,12 +654,12 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 * [Key-Value Observing Done Right](https://www.mikeash.com/pyblog/key-value-observing-done-right.html)
 
-### Continuous integration
+### Continuous Integration
 
 * [iOS Continous integration: Xcode Server, Jenkins, Travis and fastlane](http://thebugcode.github.io/ios-continous-integration-choosing-a-build-server-and-tooling/)
 * [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
 
-### Behavior analysis
+### Behavior Analysis
 
 * [美团点评前端无痕埋点实践](https://tech.meituan.com/mt-mobile-analytics-practice.html)
 * [网易乐得 iOS 无埋点数据 SDK 实践之路](http://www.jianshu.com/p/69ce01e15042)
