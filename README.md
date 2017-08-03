@@ -655,6 +655,8 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [iOS各种调试技巧豪华套餐](http://www.cnblogs.com/daiweilai/p/4421340.html)
 * [My App Crashed, Now What? – Part 1](https://www.raywenderlich.com/10209/my-app-crashed-now-what-part-1) [当程序崩溃的时候怎么办 part-1
 ](http://www.tairan.com/archives/1006/)
+* [My App Crashed, Now What? – Part 2](https://www.raywenderlich.com/10505/my-app-crashed-now-what-part-2) [当程序崩溃的时候怎么办 Part-2
+](http://www.tairan.com/archives/1143/)
 
 ### Low-Level
 
