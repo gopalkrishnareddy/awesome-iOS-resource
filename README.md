@@ -675,6 +675,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Objective-C: Logging Messages to Nil](http://www.friday.com/bbum/2008/01/02/objective-c-logging-messages-to-nil/)
 * [Public Service Announcement: You Should Not Force Quit Apps on iOS](https://daringfireball.net/2017/07/you_should_not_force_quit_apps)
 * [浅谈 iOS SDK 开发（一）五种 Mach-O 类型的凛冬之战](https://github.com/cbangchen/UnofficialHistory/blob/master/%E6%B5%85%E8%B0%88%20iOS%20SDK%20%E5%BC%80%E5%8F%91/%E6%B5%85%E8%B0%88%20iOS%20SDK%20%E5%BC%80%E5%8F%91%EF%BC%88%E4%B8%80%EF%BC%89%E4%BA%94%E7%A7%8D%20Mach-O%20%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%87%9B%E5%86%AC%E4%B9%8B%E6%88%98.markdown)
+* [Zen and the Art of the Objective-C Craftsmanship](https://github.com/objc-zen/objc-zen-book) [禅与Objective-C编程艺术](https://github.com/oa414/objc-zen-book-cn)
 
 ## Websites
 
