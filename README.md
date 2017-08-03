@@ -572,6 +572,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [携程移动 App 架构优化之旅](http://www.infoq.com/cn/articles/ctrip-app-architecture)
 * [iOS 应用架构现状分析](http://mrpeak.cn/blog/ios-arch/)
 * [iOS应用架构谈 组件化方案](https://casatwy.com/iOS-Modulization.html)
+* [iOS应用架构谈 开篇](https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 * [软件架构模式](https://www.gitbook.com/book/bboyfeiyu/software-architecture-patterns/details)
 
 ### Memory management
