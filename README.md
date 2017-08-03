@@ -653,6 +653,8 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 * [教你 Debug 的正确姿势——记一次 CoreMotion 的 Crash](https://mp.weixin.qq.com/s/egEQX_dxWqAoRvKanVAwJQ)
 * [iOS各种调试技巧豪华套餐](http://www.cnblogs.com/daiweilai/p/4421340.html)
+* [My App Crashed, Now What? – Part 1](https://www.raywenderlich.com/10209/my-app-crashed-now-what-part-1) [当程序崩溃的时候怎么办 part-1
+](http://www.tairan.com/archives/1006/)
 
 ### Low-Level
 
