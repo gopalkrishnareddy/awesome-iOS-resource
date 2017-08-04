@@ -636,6 +636,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 ### NSRunLoop
 
 * [NSRunLoop Internals](https://www.mikeash.com/pyblog/friday-qa-2010-01-01-nsrunloop-internals.html)
+* [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
 
 ### Runtime
 
