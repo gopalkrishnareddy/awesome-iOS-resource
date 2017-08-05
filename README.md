@@ -55,6 +55,8 @@ the best ways to use are:
 	* [Memory Management](#memory-management)
 	* [Xcode](#xcode)
 	* [LLVM](#llvm)
+	* [Cocoapods](#Cocoapods)
+	* [Multithreading](#multithreading)
 	* [Performance](#performance)
 	    * [Optimization](#optimization)
 	    * [Monitor](#monitor)
@@ -616,6 +618,10 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 ### CocoaPods
 
 * [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
+
+### Multithreading
+
+* [不再安全的 OSSpinLock](http://blog.ibireme.com/2016/01/16/spinlock_is_unsafe_in_ios/?utm_source=tuicool&utm_medium=referral)
 
 ### Performance 
 
