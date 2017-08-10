@@ -43,6 +43,7 @@ the best ways to use are:
 	* [APMCon](#apmcon)
 	* [iDev](#idev)
 	* [MOSEC](#mosec)
+	* [MTSC](#mtsc)
 	* [国外 iOS 技术大会](#国外-ios-技术大会-foreign-ios-technology-conference)
 * [Books](#books)
 * [Blogs](#blogs)
@@ -316,6 +317,11 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [2017](https://github.com/aozhimin/MOSEC-2017)
 * [2016 secmob](https://github.com/secmob/mosec2016) 
 * [2016 jianqiangzhao](https://github.com/jianqiangzhao/mosec2016)
+
+### MTSC
+---
+#### 2017
+* [iOS 远程真机调试——项光特](Conferences/iOS%20远程真机调试.pdf)
 
 ### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
