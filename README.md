@@ -68,6 +68,7 @@ the best ways to use are:
 	* [Behavior Analysis](#behavior-analysis)
 	* [Web](#web)
 	* [Debug](#debug)
+	* [App Thinning](#app-thinning)
 	* [Low-Level](#low-level)
 	* [Other](#other)
 * [Websites](#websites)
@@ -694,6 +695,11 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 ](http://www.tairan.com/archives/1006/)
 * [My App Crashed, Now What? – Part 2](https://www.raywenderlich.com/10505/my-app-crashed-now-what-part-2) [当程序崩溃的时候怎么办 Part-2
 ](http://www.tairan.com/archives/1143/)
+
+### App Thinning
+
+* [iOS可执行文件瘦身方法](http://blog.cnbang.net/tech/2544/)
+* [基于clang插件的一种iOS包大小瘦身方案](http://www.infoq.com/cn/articles/clang-plugin-ios-app-size-reducing)
 
 ### Low-Level
 
