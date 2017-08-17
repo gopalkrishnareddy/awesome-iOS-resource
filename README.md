@@ -423,6 +423,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [The NSHipster Fake Book](Books/The%20NSHipster%20Fake%20Book.pdf)
 * [Obscure Topics In Cocoa & Objective-C](Books/Obscure%20Topics%20In%20Cocoa%20&%20Objective-C.pdf)
 * [The Complete Friday Q&A_ Volume I - Ash_ Mike](Books/The%20Complete%20Friday%20Q&A_%20Volume%20I%20-%20Ash_%20Mike.epub)
+* [IDA Pro代码破解揭秘](Books/IDA%20Pro代码破解揭秘.pdf)
 
 ## Blogs
 
