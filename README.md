@@ -281,7 +281,7 @@ the best ways to use are:
 ---
 #### 2017 上海 (Shanghai)
 
-* 新瓶旧酒——换个角度提升APP性能质量的实践之路——饿了么 高亮亮 [PPT](Conferences/新瓶旧酒——换个角度提升APP性能质量的实践之路.pdf) [视频](http://itdks.com/dakashuo/detail/1278#)
+* 新瓶旧酒——换个角度提升APP性能质量的实践之路——饿了么 高亮亮 [PPT](Conferences/新瓶旧酒——换个角度提升APP性能质量的实践之路.pdf) [视频](http://www.itdks.com/dakashuo/new/eventlist/detail/332)
 
 ### APMCon
 ---
