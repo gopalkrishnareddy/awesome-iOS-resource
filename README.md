@@ -323,6 +323,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 ---
 #### 2017
 * [iOS 远程真机调试——项光特](Conferences/iOS%20远程真机调试.pdf)
+* [美团移动端性能监控方案Hertz——吴凯](Conferences/美团移动端性能监控方案Hertz.pdf)
 
 ### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
@@ -646,7 +647,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [iOS App 稳定性指标及监测](https://juejin.im/post/58ca0832a22b9d006418fe43)
 * [iOS 性能监控方案 Wedjat](https://github.com/aozhimin/iOS-Monitor-Platform)
 * [微信客户端性能监控和优化简述](http://www.infoq.com/cn/news/2017/07/wechat-client-performance-tuning?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
-* [移动端性能监控方案 Hertz](https://tech.meituan.com/hertz.html)
+* 移动端性能监控方案 Hertz [文章](https://tech.meituan.com/hertz.html) [视频](https://new.stuq.org/course/95) [PPT](Conferences/美团移动端性能监控方案Hertz.pdf)
 
 ### NSRunLoop
 
