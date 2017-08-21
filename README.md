@@ -552,6 +552,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [NatashaTheRobot](http://natashatherobot.com/)
 * [Coding Explorer Blog](http://www.codingexplorer.com/)
 * [Use Your Loaf](https://useyourloaf.com/)
+* [Hamster Emporium](http://www.sealiesoftware.com/blog/)
 
 ### 国内 (Internal)
 
