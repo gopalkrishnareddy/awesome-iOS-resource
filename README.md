@@ -591,6 +591,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [百度Hi iOS团队技术周报](https://baiduhidevios.github.io/)
 * [Midnight Summer Dream](http://mayuyu.io/)
 * [SatanWoo](http://satanwoo.github.io/)
+* [Swiftyper](http://www.swiftyper.com/)
 
 ## Articles
 
