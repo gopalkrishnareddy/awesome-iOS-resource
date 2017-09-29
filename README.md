@@ -592,6 +592,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Midnight Summer Dream](http://mayuyu.io/)
 * [SatanWoo](http://satanwoo.github.io/)
 * [Swiftyper](http://www.swiftyper.com/)
+* [TKkk Notes](https://tkkk-ioser.github.io/)
 
 ## Articles
 
