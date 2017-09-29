@@ -593,6 +593,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [SatanWoo](http://satanwoo.github.io/)
 * [Swiftyper](http://www.swiftyper.com/)
 * [TKkk Notes](https://tkkk-ioser.github.io/)
+* [sunnyyoung](https://blog.sunnyyoung.net/)
 
 ## Articles
 
