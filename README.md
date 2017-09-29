@@ -720,6 +720,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Smashing The Stack For Fun And Profit](http://phrack.org/issues/49/14.html#article)
 * [关于 Block 中捕获 self 的分析](https://dev.qq.com/topic/590c2190142eee2b6b973590)
 * [Assembly Register Calling Convention Tutorial](https://www.raywenderlich.com/161938/assembly-register-calling-convention-tutorial) [中文翻译](http://www.jianshu.com/p/5273bd1c285f)
+* [黑科技：把第三方 iOS 应用转成动态库](http://blog.imjun.net/posts/convert-iOS-app-to-dynamic-library/)
 
 ### Other
 
