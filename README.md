@@ -595,6 +595,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [TKkk Notes](https://tkkk-ioser.github.io/)
 * [sunnyyoung](https://blog.sunnyyoung.net/)
 * [everettjf](http://everettjf.com/)
+* [fEICOnG's Blog](https://feicong.github.io/)
 
 ## Articles
 
