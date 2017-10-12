@@ -596,6 +596,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [sunnyyoung](https://blog.sunnyyoung.net/)
 * [everettjf](http://everettjf.com/)
 * [fEICOnG's Blog](https://feicong.github.io/)
+* [曾宪华的博客](http://zengxianhua.com/)
 
 ## Articles
 
