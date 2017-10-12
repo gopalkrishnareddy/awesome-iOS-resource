@@ -597,6 +597,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [everettjf](http://everettjf.com/)
 * [fEICOnG's Blog](https://feicong.github.io/)
 * [曾宪华的博客](http://zengxianhua.com/)
+* [Keen Lab Blog](http://keenlab.tencent.com/zh/index.html)
 
 ## Articles
 
