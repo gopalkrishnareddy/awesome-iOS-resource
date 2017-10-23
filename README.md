@@ -196,6 +196,7 @@ the best ways to use are:
 #### 2017	上海 (Shanghai)
 
 * 极光移动端架构演变之路——极光 李根 [PPT](Conferences/极光移动端架构演变之路.pdf)
+* 美团点评移动端底层架构实践——美团点评 周辉 [PPT](Conferences/美团点评移动端底层架构实践.pdf)
 
 #### 2017	北京 (Beijing)
 
