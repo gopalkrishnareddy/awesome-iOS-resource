@@ -192,9 +192,14 @@ the best ways to use are:
 
 ### QCon
 ---
+
+#### 2017	上海 (Shanghai)
+
+* 极光移动端架构演变之路——极光 李根 [PPT](Conferences/极光移动端架构演变之路.pdf)
+
 #### 2017	北京 (Beijing)
 
-* 移动APP性能监测实践（iOS篇——听云 杨凯 [PPT](Conferences/移动APP性能监测实践（iOS篇）.pdf) [视频](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice)
+* 移动APP性能监测实践（iOS篇)——听云 杨凯 [PPT](Conferences/移动APP性能监测实践（iOS篇）.pdf) [视频](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice)
 * 网易乐得 “无埋点”数据采集实践之路——网易 庞辉 [PPT](Conferences/网易乐得%20“无埋点”数据采集实践之路.pdf)
 * 微信移动客户端数据存储优化实践——微信 凌国 [PPT](Conferences/微信移动客户端数据存储优化实践.pdf)
 * iOS App 内存专项实践：封闭系统下的大自由——腾讯 黄闻欣 [PPT](Conferences/iOS%20App%20内存专项实践：封闭系统下的大自由.pdf)
