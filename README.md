@@ -560,6 +560,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Coding Explorer Blog](http://www.codingexplorer.com/)
 * [Use Your Loaf](https://useyourloaf.com/)
 * [Hamster Emporium](http://www.sealiesoftware.com/blog/)
+* [TOGETHER WE HACK](https://togetherwehack.com/)
 
 ### 国内 (Internal)
 
