@@ -398,6 +398,13 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Swift Language User Group](https://www.meetup.com/swift-language/)
 * [Mobile East](http://mobileeast.net/me2012/)
 * [iOS Meetup Groups](https://www.meetup.com/topics/ios/)
+* [MBLTdev](https://mbltdev.ru/en)
+* [Open Mobile Summit](http://www.openmobilemedia.com/san-francisco/)
+* [UA Mobile](http://www.uamobile.org/)
+* [SwiftFest](http://www.swiftfest.io/)
+* [DeveloperWeek](http://www.developerweek.com/)
+* [WeAreDevelopers](https://www.wearedevelopers.com/congress/)
+* [MODS](http://www.developermarch.com/mds/?cm_mc_uid=27807686385115070242518&cm_mc_sid_50200000=1507024251)
 
 ## Books
 
