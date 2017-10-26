@@ -568,6 +568,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Use Your Loaf](https://useyourloaf.com/)
 * [Hamster Emporium](http://www.sealiesoftware.com/blog/)
 * [TOGETHER WE HACK](https://togetherwehack.com/)
+* [Felix Krause](https://krausefx.com/)
 
 ### 国内 (Internal)
 
