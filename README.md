@@ -569,6 +569,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Hamster Emporium](http://www.sealiesoftware.com/blog/)
 * [TOGETHER WE HACK](https://togetherwehack.com/)
 * [Felix Krause](https://krausefx.com/)
+* [Inside PSPDFKit](https://pspdfkit.com/blog/)
 
 ### 国内 (Internal)
 
