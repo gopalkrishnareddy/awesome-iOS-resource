@@ -573,6 +573,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [NowSecure](https://www.nowsecure.com/blog/tag/ios/)
 * [bazad.github.io](http://bazad.github.io/)
 * [Nick Lockwood](http://www.charcoaldesign.co.uk/)
+* [Chris Miles](http://blog.chrismiles.info/)
 
 ### 国内 (Internal)
 
