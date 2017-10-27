@@ -572,7 +572,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Inside PSPDFKit](https://pspdfkit.com/blog/)
 * [NowSecure](https://www.nowsecure.com/blog/tag/ios/)
 * [bazad.github.io](http://bazad.github.io/)
-* [Nick Lockwood Blog](http://www.charcoaldesign.co.uk/)
+* [Nick Lockwood](http://www.charcoaldesign.co.uk/)
 
 ### 国内 (Internal)
 
