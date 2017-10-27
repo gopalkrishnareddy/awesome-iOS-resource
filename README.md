@@ -570,6 +570,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [TOGETHER WE HACK](https://togetherwehack.com/)
 * [Felix Krause](https://krausefx.com/)
 * [Inside PSPDFKit](https://pspdfkit.com/blog/)
+* [NowSecure](https://www.nowsecure.com/blog/tag/ios/)
 
 ### 国内 (Internal)
 
