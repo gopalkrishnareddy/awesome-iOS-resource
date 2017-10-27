@@ -798,6 +798,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Realm Academy](https://academy.realm.io/section/apple)
 * [Apple Open Source Tarballs](https://opensource.apple.com/tarballs/)
 * [newosxbook](http://newosxbook.com/index.php?page=notes)
+* [Sam Soffes](https://soff.es/)
 
 ## Documentations
 
