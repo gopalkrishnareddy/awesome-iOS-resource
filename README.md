@@ -571,6 +571,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [Felix Krause](https://krausefx.com/)
 * [Inside PSPDFKit](https://pspdfkit.com/blog/)
 * [NowSecure](https://www.nowsecure.com/blog/tag/ios/)
+* [bazad.github.io](http://bazad.github.io/)
 
 ### 国内 (Internal)
 
