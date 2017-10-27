@@ -619,6 +619,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [曾宪华的博客](http://zengxianhua.com/)
 * [Keen Lab Blog](http://keenlab.tencent.com/zh/index.html)
 * [JMPEWS](http://jmpews.github.io/)
+* [Xcode Dev](http://blog.xcodev.com/)
 
 ## Articles
 
