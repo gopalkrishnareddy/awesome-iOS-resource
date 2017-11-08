@@ -407,6 +407,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [MODS](http://www.developermarch.com/mds/?cm_mc_uid=27807686385115070242518&cm_mc_sid_50200000=1507024251)
 * [@Scale](https://atscaleconference.com)
 * [BlackHat](http://www.blackhat.com/) [YouTube channel](https://www.youtube.com/user/BlackHatOfficialYT)
+* [HITB GSEC](http://gsec.hitb.org/) [YouTube channel](https://www.youtube.com/user/hitbsecconf)
 
 ## Books
 
