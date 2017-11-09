@@ -604,7 +604,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [南峰子的技术博客](http://southpeak.github.io/)
 * [Casa Taloyum](https://casatwy.com/)
 * [mrriddler](http://blog.mrriddler.com/)
-* [冬瓜](http://http://www.desgard.com/)
+* [冬瓜](http://www.desgard.com/)
 * [涂耀辉](http://www.jianshu.com/u/14431e509ae8)
 * [郑宇琦( Enum )](http://posts.enumsblog.com/list)
 * [Kitten 的时间胶囊](http://kittenyang.com/)
