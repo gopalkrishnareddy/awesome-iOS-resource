@@ -179,6 +179,10 @@ the best ways to use are:
 * [Understand Swift Performance——唐巧](Conferences/Understand%20Swift%20Performance.pdf)
 * [TensorFlow on iOS——尹航](Conferences/TensorFlow%20on%20iOS.pdf)
 
+[大会演讲视频地址](https://www.youtube.com/playlist?list=PLb4_C8I-kVdkezD4SWO5l9S5fcoz-c5g4)
+
+> 2017@Swift 大会的视频是放在 YouTube 上，所以需翻墙观看。
+
 #### 2016
 
 * [如何打造一个让人愉快的框架——王巍](Conferences/如何打造一个让人愉快的框架.pdf)
