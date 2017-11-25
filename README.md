@@ -349,6 +349,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [极光开发者沙龙JIGUANG MEETU—移动应用性能优化实践](http://www.itdks.com/eventlist/detail/332)
 * [携程技术沙龙——移动开发工程实践与性能优化](http://www.itdks.com/eventlist/detail/161)
 * [携程技术沙龙——移动互联背景下的测试技术创新视频回放](http://www.itdks.com/eventlist/detail/929)
+* [腾讯WeTest - 移动游戏技术沙龙](http://www.itdks.com/eventlist/detail/1734)
 
 ### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
