@@ -44,6 +44,7 @@ the best ways to use are:
 	* [iDev](#idev)
 	* [MOSEC](#mosec)
 	* [MTSC](#mtsc)
+	* [技术沙龙](#技术沙龙)
 	* [国外 iOS 技术大会](#国外-ios-技术大会-foreign-ios-technology-conference)
 * [Books](#books)
 * [Blogs](#blogs)
@@ -338,6 +339,12 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 #### 2017
 * [iOS 远程真机调试——项光特](Conferences/iOS%20远程真机调试.pdf)
 * [美团移动端性能监控方案Hertz——吴凯](Conferences/美团移动端性能监控方案Hertz.pdf)
+
+### 技术沙龙
+---
+#### 2017
+* [沪江技术沙龙 —— 移动应用开发及性能优化](http://www.itdks.com/eventlist/detail/1674)
+
 
 ### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
