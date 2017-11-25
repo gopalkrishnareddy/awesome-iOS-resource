@@ -346,6 +346,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [沪江技术沙龙 —— 移动应用开发及性能优化](http://www.itdks.com/eventlist/detail/1674)
 * [移动性能优化最佳实践｜七牛架构师实践日－第二十四期](http://www.itdks.com/eventlist/detail/1298)
 * [移动架构与性能优化 | 七牛架构师实践日-上海站](http://www.itdks.com/eventlist/detail/1380)
+* [极光开发者沙龙JIGUANG MEETU—移动应用性能优化实践](http://www.itdks.com/eventlist/detail/332)
 
 ### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
