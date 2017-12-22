@@ -375,6 +375,11 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [腾讯WeTest - 移动游戏技术沙龙](http://www.itdks.com/eventlist/detail/1734)
 * [Mobile Open Day-iOS 专场【成都】](http://www.itdks.com/eventlist/detail/1193)
 * [Mobile Open Day-西安 | 6月24日](http://www.itdks.com/eventlist/detail/992)
+* [美团点评技术沙龙Online第2期 —— 美团点评前端无痕埋点实践](https://v.douyu.com/show/kJmbBMkqN10v40XA)
+* [美团点评技术沙龙Online第4期 —— iOS 内存管理详解](https://v.douyu.com/show/ra2JEMJgnEkWNxml)
+* [美团点评技术沙龙Online第5期 —— 从 WWDC 2017 看未来 iOS 开发](https://v.douyu.com/show/jXqeO74DV5y7xywG)
+* [美团点评技术沙龙Online第6期 —— 随我一起把玩 ARKit](https://v.douyu.com/show/jworZv0BwgjMJBk3)
+* [美团点评技术沙龙Online第7期 —— App 启动流程及优化](https://v.douyu.com/show/JwLjGvLJ0N2MmO90)
 
 ### 国外 iOS 技术大会 (Foreign iOS Technology Conference)
 ---
