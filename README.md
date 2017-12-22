@@ -203,6 +203,7 @@ the best ways to use are:
 * 极光移动端架构演变之路——极光 李根 [PPT](Conferences/极光移动端架构演变之路.pdf) [视频](http://www.infoq.com/cn/presentations/path-of-the-evolution-of-jiguang-mobile-terminal?utm_source=presentations_about_mobile&utm_medium=link&utm_campaign=mobile)
 * 美团点评移动端底层架构实践——美团点评 周辉 [PPT](Conferences/美团点评移动端底层架构实践.pdf) [视频](http://daxue.qq.com/content/content/id/3689)
 * 移动应用高可用性保障探索与实践——阿里巴巴 邹迪飞 [PPT](Conferences/移动应用高可用性保障探索与实践.pdf) [视频](http://daxue.qq.com/content/content/id/3687)
+* 基于卷积神经网络在手机端实现文档检测——腾讯 冯牮 [视频](http://daxue.qq.com/content/content/id/3686)
 
 #### 2017	北京 (Beijing)
 
