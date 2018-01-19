@@ -362,6 +362,11 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 
 ### 技术沙龙
 ---
+
+#### 2018
+
+* [极光开发者沙龙JIGUANG MEETUP - 架构师修炼之道](http://www.itdks.com/eventlist/detail/1910)
+
 #### 2017
 
 * [饿了么技术沙龙 - 第二届移动技术开放日](http://www.itdks.com/eventlist/detail/1755)
