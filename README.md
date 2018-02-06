@@ -371,6 +371,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 #### 2018
 
 * [极光开发者沙龙JIGUANG MEETUP - 架构师修炼之道](http://www.itdks.com/eventlist/detail/1910)
+* 美团点评技术沙龙第32期：移动开发热点技术—动态日志、监控、Hybrid、插件化 - Caesium iOS启动时间监控 [视频](http://www.itdks.com/eventlist/detail/1936) [PDF](Conferences/Caesium%20iOS启动时间监控.pdf)
 
 #### 2017
 
